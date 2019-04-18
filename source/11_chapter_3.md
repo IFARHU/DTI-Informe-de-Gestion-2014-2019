@@ -1,8 +1,30 @@
 # Eje 1: Estratégico y Capital Humano
 
-## Introduction
+## Introducción
 
 This is the introduction. Nam mollis congue tortor, sit amet convallis tortor mollis eget. Fusce viverra ut magna eu sagittis. Vestibulum at ultrices sapien, at elementum urna. Nam a blandit leo, non lobortis quam. Aliquam feugiat turpis vitae tincidunt ultricies. Mauris ullamcorper pellentesque nisl, vel molestie lorem viverra at.
+
+## Mapa Estratético del IFARHU
+
+## Agenda Digital del IFARHU y PETI
+
+## Restructuración de las funciones dadas por Departamentos
+
+## Creación de unidades internas con asignaciones propias
+
+## Capacitaciones y actualización en competencias
+
+## Pendientes
+
+### Linux, Linux Avanzado
+
+### Seguridad, Seguridad Informática (actualización)
+
+### Bases de Datos (actualización)
+
+### Nuevas técnicas y metodologías en Desarrollo de Software (actualización)
+
+### Atención al cliente
 
 ## Method
 

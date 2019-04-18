@@ -6,7 +6,7 @@ include a chapter that reviews the literature and
 introduces methodology used throughout the thesis.
 -->
 
-## Introduction
+## Introducción
 
 This is the introduction. Duis in neque felis. In hac habitasse platea dictumst. Cras eget rutrum elit. Pellentesque tristique venenatis pellentesque. Cras eu dignissim quam, vel sodales felis. Vestibulum efficitur justo a nibh cursus eleifend. Integer ultrices lorem at nunc efficitur lobortis.
 
