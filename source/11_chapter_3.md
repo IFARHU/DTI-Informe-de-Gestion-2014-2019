@@ -1,4 +1,4 @@
-# First research study, with code
+# Eje 1: Estratégico y Capital Humano
 
 ## Introduction
 
@@ -29,9 +29,9 @@ If you use `javaCodeStyle` as defined in the `preamble.tex`, it is best to keep 
 
 This is the second part of the methodology. Proin tincidunt odio non sem mollis tristique. Fusce pharetra accumsan volutpat. In nec mauris vel orci rutrum dapibus nec ac nibh. Praesent malesuada sagittis nulla, eget commodo mauris ultricies eget. Suspendisse iaculis finibus ligula.
 
-<!-- 
+<!--
 Comments can be added like this.
---> 
+-->
 
 ## Results
 
@@ -44,4 +44,3 @@ This is the discussion. Duis ultrices tempor sem vitae convallis. Pellentesque l
 ## Conclusion
 
 This is the conclusion to the chapter. Praesent bibendum urna orci, a venenatis tellus venenatis at. Etiam ornare, est sed lacinia elementum, lectus diam tempor leo, sit amet elementum ex elit id ex. Ut ac viverra turpis. Quisque in nisl auctor, ornare dui ac, consequat tellus.
-

@@ -1,8 +1,8 @@
-# Literature review, with maths
+# La Dirección de Tecnología Informática del IFARHU
 
 <!--
-After the introductory chapter, it seems fairly common to 
-include a chapter that reviews the literature and 
+After the introductory chapter, it seems fairly common to
+include a chapter that reviews the literature and
 introduces methodology used throughout the thesis.
 -->
 
@@ -29,4 +29,3 @@ This is the conclusion. Donec pulvinar molestie urna eu faucibus. In tristique u
 - first item in the list
 - second item in the list
 - third item in the list
-

@@ -1,9 +1,3 @@
-<!--
-This is the Latex-heavy title page.
-People outside UCL may want to remove the header logo
-and add the centred logo
--->
-
 \begin{titlepage}
     \begin{center}
 
@@ -23,16 +17,11 @@ and add the centred logo
 
         \vspace{1.5cm}
 
-        \normalsize
-        A thesis presented for the degree of\\
-        Doctor of Philosophy
-
         \vfill
 
         \normalsize
-        Supervised by:\\
-        Professor Louis Fage\\
-        Captain J. Y. Cousteau
+        Delia Arosemena\\
+        Directora General del IFARHU
 
         \vspace{0.8cm}
 
