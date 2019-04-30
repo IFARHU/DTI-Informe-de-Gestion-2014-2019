@@ -5,16 +5,6 @@ $else$
 \usepackage{lmodern}
 $endif$
 
-% Overwrite \begin{figure}[htbp] with \begin{figure}[H]
-\usepackage{float}
-\let\origfigure=\figure
-\let\endorigfigure=\endfigure
-\renewenvironment{figure}[1][]{%
-\origfigure[b]
-}{%
-\endorigfigure
-}
-
 % fix for pandoc 1.14
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -143,14 +133,8 @@ $endif$
 $if(verbatim-in-note)$
 \VerbatimFootnotes % allows verbatim text in footnotes
 $endif$
-$if(lang)$
-\ifxetex
-  \usepackage{polyglossia}
-  \setmainlanguage{$mainlang$}
-\else
-  \usepackage[$lang$]{babel}
-\fi
-$endif$
+
+\usepackage[$lang$]{babel}
 
 $if(title)$
 \title{$title$$if(subtitle)$\\\vspace{0.5em}{\large $subtitle$}$endif$}

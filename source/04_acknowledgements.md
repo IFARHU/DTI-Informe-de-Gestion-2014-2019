@@ -1,14 +1,9 @@
-# Acknowledgements {.unnumbered}
+# Agradecimientos {.unnumbered}
 
-<!-- This is for acknowledging all of the people who helped out -->
+El logro de este trabajo y los objetivos logrados por la Dirección de Tecnología Informática del IFARHU durante los años 2014 a 2019 fueron fruto del trabajo arduo ofrecido por todos los colaboradores de los distintos 4 departamentos de nuestra Dirección.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam congue fermentum ante, semper porta nisl consectetur ut. Duis ornare sit amet dui ac faucibus. Phasellus ullamcorper leo vitae arcu ultricies cursus. Duis tristique lacus eget metus bibendum, at dapibus ante malesuada. In dictum nulla nec porta varius. Fusce et elit eget sapien fringilla maximus in sit amet dui.
+El agradecimiento principal va a todos los colaboradores de esta Dirección durante dicha época, que destilaron esfuerzo, sacrificio, trabajo duro en pro de los distintos programas que se apalancan por la tecnología y servicios que emanan de nuestra Dirección.
 
-Mauris eget blandit nisi, faucibus imperdiet odio. Suspendisse blandit dolor sed tellus venenatis, venenatis fringilla turpis pretium. Donec pharetra arcu vitae euismod tincidunt. Morbi ut turpis volutpat, ultrices felis non, finibus justo. Proin convallis accumsan sem ac vulputate. Sed rhoncus ipsum eu urna placerat, sed rhoncus erat facilisis. Praesent vitae vestibulum dui. Proin interdum tellus ac velit varius, sed finibus turpis placerat.
-
-<!-- Use the \newpage command to force a new page -->
+Cualquiera de los logros obtenidos durante estos 5 años no hubiesen sido posible si no hubiese sido por contar con un equipo de tan alto nivel y compromiso.
 
 \newpage
-
-
-

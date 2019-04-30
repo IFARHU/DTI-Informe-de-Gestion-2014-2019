@@ -1,35 +1,18 @@
 # Introducción
 
-## Background
+## Sobre el documento
 
-This is the introduction. Quisque finibus aliquet cursus. Integer in pellentesque tellus. Duis eu dignissim nulla, a porttitor enim. Quisque vehicula leo non ultrices finibus. Duis vehicula quis sem sit amet sollicitudin. Integer neque est, pharetra et auctor vel, iaculis interdum lectus.
+El siguiente trabajo permite dar un pequeño y conciso resumen sobre los objetivos logrados a través del trabajo realizado por la Dirección de Tecnología (DTI) del Instituto para la Formación y Aprovechamiento de Recursos Humanos (IFARHU) durante la Administración 2014-2019.
 
-<!--
-To include a reference, add the citation key shown in the references.bib file.
--->
+Este documento no se debe ver como un listado de proyectos, planes y programas ejecutados por la DTI durante los años 2014 a 2019, si no como un diario de logros e hitos logrados estratégicamente por los colaboradores de esta Dirección, definidos para soportar tanto los objetivos estratégicos definidos por el Mapa Estratégico del IFARHU, como por los lineamientos ofrecidos por el Despacho Superior y las necesidades de nuestros colaboradores y beneficiarios.
 
-To include a citation to the text, just add the citation key shown in the references.bib file. The style of the citation is determined by the ref_format.csl file. For example, in The Living Sea you can find pictures of the Calypso [@Cousteau1963].
+## Resumen de los capítulos
 
-In neque mauris, maximus at sapien a, iaculis dignissim justo. Aliquam erat volutpat. Praesent varius risus auctor est ultricies, sit amet consequat nisi laoreet. Suspendisse non est et mauris pharetra sagittis non porta justo. Praesent malesuada metus ut sapien sodales ornare.
+En el **Capítulo 2** se abordará acerca de la DTI, su misión, visión y las funciones a la que está suscrita dicha Dirección.
 
-## The middle bit
+A partir del **Capítulo 3** se trabajará el documento a través de distintos ejes temáticos, ordenados de la siguiente manera:
 
-This is the middle bit. Phasellus quis ex in ipsum pellentesque lobortis tincidunt sed massa. Nullam euismod sem quis dictum condimentum. Suspendisse risus metus, elementum eu congue quis, viverra ac metus. Donec non lectus at lectus euismod laoreet pharetra semper dui. Donec sed eleifend erat, vel ultrices nibh. Nam scelerisque turpis ac nunc mollis, et rutrum nisl luctus.
-
-Duis faucibus vestibulum elit, sit amet lobortis libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed at cursus nibh. Sed accumsan imperdiet interdum. Proin id facilisis tortor. Proin posuere a neque nec iaculis. Suspendisse potenti. Nullam hendrerit ante mi, vitae iaculis dui laoreet eu.
-
-Cras eleifend velit diam, eu viverra mi volutpat ut. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec finibus leo nec dui imperdiet, tincidunt ornare orci venenatis. Maecenas placerat efficitur est, eu blandit magna hendrerit eu.
-
-### Subsection of the middle bit
-
-This is a subsection of the middle bit. Quisque sit amet tempus arcu, ac suscipit ante. Cras massa elit, pellentesque eget nisl ut, malesuada rutrum risus. Nunc in venenatis mi. Curabitur sit amet suscipit eros, non tincidunt nibh. Phasellus lorem lectus, iaculis non luctus eget, tempus non risus. Suspendisse ut felis mi.
-
-## Summary of chapters
-
-<!--
-For italic, add one * on either side of the text
-For bold, add two * on either side of the text
-For bold and italic, add _** on either side of the text
--->
-
-This is a brief outline of what went into each chapter. **Chapter 1** gives a background on duis tempus justo quis arcu consectetur sollicitudin.  **Chapter 2** discusses morbi sollicitudin gravida tellus in maximus.  **Chapter 3** discusses vestibulum eleifend turpis id turpis sollicitudin aliquet.  **Chapter 4** shows how phasellus gravida non ex id aliquet. Proin faucibus nibh sit amet augue blandit varius.
+- **Capítulo 3:** Eje 1: Estratégico y Capital Humano.
+- **Capítulo 4:** Eje 2: Arquitectura Tecnológica, Telecomunicaciones, Seguridad e Infraestructura
+- **Capítulo 5:** Eje 3: Desarrollo de Software y Plataformas Digitales
+- **Capítulo 6:** Eje 4: Innovación

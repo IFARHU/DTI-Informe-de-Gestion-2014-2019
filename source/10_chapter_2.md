@@ -1,31 +1,44 @@
 # La Dirección de Tecnología Informática del IFARHU
 
-<!--
-After the introductory chapter, it seems fairly common to
-include a chapter that reviews the literature and
-introduces methodology used throughout the thesis.
--->
-
 ## Introducción
 
-This is the introduction. Duis in neque felis. In hac habitasse platea dictumst. Cras eget rutrum elit. Pellentesque tristique venenatis pellentesque. Cras eu dignissim quam, vel sodales felis. Vestibulum efficitur justo a nibh cursus eleifend. Integer ultrices lorem at nunc efficitur lobortis.
+El IFARHU (Instituto para la Formación y Aprovechamiento de Recursos Humanos) se crea mediante ley 1 de 11 de enero de 1965, como una institución que propusiese enfrentar la problemática del recurso humano, proporcionando oportunidades de estudios a jóvenes y adultos de todos los niveles académicos.
 
-## The middle
+Luego de más de 50 años de existencia, el IFARHU mantiene una cartera activa de cerca de más de 900 mil personas beneficiadas con sus ofertas: ya sean becas o créditos educativos.
 
-This is the literature review. Nullam quam odio, volutpat ac ornare quis, vestibulum nec nulla. Aenean nec dapibus in mL/min^-1^. Mathematical formula can be inserted using Latex:
+El programa más importante del IFARHU es el programa de Beca Universal, cuyos objetivos\footnote{Artículo 1-A, Ley 40 de 2010.} son:
 
-(@ref_for_eqn1) $f(x) = ax^3 + bx^2 + cx + d$
+- Prevenir y contrarrestar la deserción escolar de estudiantes que presentan problemas socioeconómicos, según evaluación del gabinete psicopedagógico, con el otorgamiento de un apoyo económico que coadyuve en sus necesidades escolares básicas.
+- Elevar los índices de inscripción y de asistencia escolar dentro de los procesos educativos.
+- Brindar la oportunidad de ser beneficiarios a los estudiantes de educación primaria, premedia y media que durante el año escolar en curso cuenten con el promedio académico requerido por esta Ley.
 
-Nunc eleifend, ex a luctus porttitor, felis ex suscipit tellus, ut sollicitudin sapien purus in libero. Nulla blandit eget urna vel tempus. Praesent fringilla dui sapien, sit amet egestas leo sollicitudin at.  
+Tanto este como el resto de programas de becas y créditos educativos del IFARHU se benefician de los distintos servicios internos ofrecidos por la Dirección de Tecnología Informática (DTI) del IFARHU y, día con día, se requiere con mayor importancia dada las circunstancias en donde este gran número de personas haría imposible su administración si no fuese a través de mecanismos digitales y/o tecnológicos.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed faucibus pulvinar volutpat. Ut semper fringilla erat non dapibus. Nunc vitae felis eget purus placerat finibus laoreet ut nibh.
+La DTI fue creada en el año 2007 mediante Resolución 320-2007-655 de 26 de noviembre de 2007. Desde su creación, la DTI ha estado asignada al "Nivel Auxiliar de Apoyo", según lo descrito en el Manual de Organización y Funciones del IFARHU.
 
-## Conclusion
+El objetivo por el cual se creó la DTI establece\footnote{Manual de Organización y Funciones del IFARHU}:
 
-This is the conclusion. Donec pulvinar molestie urna eu faucibus. In tristique ut neque vel eleifend. Morbi ut massa vitae diam gravida iaculis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+> Planificar, dirigir, organizar, coordinar y supervisar la automatización de los procesos, adquisición y mantenimiento de las tecnologías de información y comunicaciones utilizadas por el Instituto para la Formación y Aprovechamiento de Recursos Humanos a nivel nacional, en apoyo a las directrices emanadas del Despacho Superior y garantizando altos estándares de seguridad en su funcionamiento.
 
-<!-- Insert an unordered list -->
+## Organización y Jerarquía
 
-- first item in the list
-- second item in the list
-- third item in the list
+La Directrices de la DTI emanan del Despacho Superior y esta, a su vez, se compone de 4 Departamentos, 1 Sección y 1 Unidad (Asignaciones Internas), definidas de la siguiente manera:
+
+- Departamento de Soporte Técnico
+- Departamento de Telecomunicaciones
+- Departamento de Procesamiento de Datos
+- Departamento de Desarrollo de Sistemas
+- Sección de Servicio al Usuario (asignada al Dpto. de Procesamiento de Datos)
+- Unidad de Seguridad Informática (asignada al Dpto. de Telecomunicaciones)
+
+![Organigrama de la DTI del IFARHU a 2019. \label{ref_organigrama}](source/figures/chap2_fig1.png){ width=100% }
+
+En la Figura \ref{ref_organigrama} se muestra el Organigrama Operativo de la DTI a la fecha, el cuál difiera del mostrado a nivel del Manual Operativo según el documento con mismo nombre.
+
+## El papel de la DTI durante la Administración 2014-2019
+
+Durante la administración 2014-2019, la DTI se ha enfocado en el trabajo desde una perspectiva estratégica, soportando no solo las decisiones del Despacho Superior si no la Estrategia de la Institución.
+
+De igual forma, intentó desarrollar proyectos innovadores y, en la mayoría de los casos, el desarrollo interno de tecnología, mediante la capacitación constante, la revisión de competencias, la inversión en capital humano como principal indicador de desarrollo tecnológico, el uso de plataformas tecnológicas, la transparencia de los procesos, el desarrollo mediante tecnologías nuevas y libres, la implementación de tecnologías abiertas sobre privativas y el empoderamiento de los colaboradores para asumir sus responsabilidades y sus puestos.
+
+De igual forma, se mejoró tanto la identidad y la relación de los colaboradores con su Dirección, mejorando igualmente sus espacios de trabajo y colaboración, promoviendo un entorno abierto de colaboración.

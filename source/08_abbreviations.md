@@ -1,10 +1,6 @@
-# Abbreviations {.unnumbered}
+# Abreviaciones {.unnumbered}
 
-\begin{tabbing}
-\textbf{API}~~~~~~~~~~~~ \= \textbf{A}pplication \textbf{P}rogramming \textbf{I}nterface \\  
-\textbf{JSON} \> \textbf{J}ava\textbf{S}cript \textbf{O}bject \textbf{N}otation \\  
-\end{tabbing}
-
-\newpage
-\setcounter{page}{1}
-\renewcommand{\thepage}{\arabic{page}}
+- DTI: Dirección de Tecnología Informática
+- IFARHU: Instituto para la Formación y Aprovechamiento de Recursos Humanos
+- PETI: Plan Estratégico de Tecnologías de la Información
+- AIG: Autoridad Nacional para la Innovación Gubernamental

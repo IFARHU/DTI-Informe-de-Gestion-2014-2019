@@ -11,7 +11,7 @@ BIBFILE=$(INPUTDIR)/references.bib
 
 help:
 	@echo ' 																	  '
-	@echo 'Makefile for the Markdown thesis                                       '
+	@echo 'Makefile for the Markdown DTI_Informe_Gestion_2014-2019                                       '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
 	@echo '   make html                        generate a web version             '
@@ -26,7 +26,7 @@ help:
 
 pdf:
 	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/thesis.pdf" \
+	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.pdf" \
 	-H "$(STYLEDIR)/preamble.tex" \
 	--template="$(STYLEDIR)/template.tex" \
 	--bibliography="$(BIBFILE)" 2>pandoc.log \
@@ -34,6 +34,7 @@ pdf:
 	--highlight-style pygments \
 	-V fontsize=12pt \
 	-V papersize=letter \
+	-V lang=spanish \
 	-V documentclass=report \
 	-N \
 	--pdf-engine=xelatex \
@@ -41,11 +42,11 @@ pdf:
 
 tex:
 	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/thesis.tex" \
+	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.tex" \
 	-H "$(STYLEDIR)/preamble.tex" \
 	--bibliography="$(BIBFILE)" \
 	-V fontsize=12pt \
-	-V papersize=a4paper \
+	-V papersize=letter \
 	-V documentclass=report \
 	-V lang=spanish \
 	-N \
@@ -54,14 +55,14 @@ tex:
 
 docx:
 	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/thesis.docx" \
+	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.docx" \
 	--bibliography="$(BIBFILE)" \
 	--csl="$(STYLEDIR)/ref_format.csl" \
 	--toc
 
 html:
 	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/thesis.html" \
+	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.html" \
 	--standalone \
 	--template="$(STYLEDIR)/template.html" \
 	--bibliography="$(BIBFILE)" \
