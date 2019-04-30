@@ -4,3 +4,4 @@
 - IFARHU: Instituto para la Formación y Aprovechamiento de Recursos Humanos
 - PETI: Plan Estratégico de Tecnologías de la Información
 - AIG: Autoridad Nacional para la Innovación Gubernamental
+- SSU: Sección de Servicio al Usuario
