@@ -247,6 +247,10 @@ Junto con la creación de las **"Políticas de Seguridad para las Tecnologías d
 
 Se hizo la solicitud a la Dirección de Planificación, de la creación de la Unidad a nivel del esquema jerárquico de la Institución, incluyendo las responsabilidades y objetivos de dicha unidad. Al año 2019, la Dirección de Planificación no ha ejecutado dichas mejoras en el Manual de Organización y Funciones del IFARHU.
 
+### Sistemas Anti-Spam
+
+Se instaló un nuevo sistema anti-spam (Barracuda) para proteger a los equipos del IFARHU en contra de los ataques provenientes de correos mal intencionados y correo basura.
+
 ## Trabajo Futuro
 
 **Arquitectura**

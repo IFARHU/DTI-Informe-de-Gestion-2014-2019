@@ -9,3 +9,4 @@
 - TE: Tribunal Electoral
 - MEDUCA: Ministerio de Educación
 - CSIRT: Equipo de Respuesta a Incidentes de Seguridad de la Información
+- API: Interfaz de Programación de Aplicaciones
