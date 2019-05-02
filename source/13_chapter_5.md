@@ -1,6 +1,6 @@
 # Eje 3: Desarrollo de Software y Plataformas Digitales
 
-## Introduction
+## Introducción
 
 This is the introduction. Phasellus non purus id mauris aliquam rutrum vitae quis tellus. Maecenas rhoncus ligula nulla, fringilla placerat mi consectetur eu. Aenean nec metus ac est ornare posuere. Nunc ipsum lacus, gravida commodo turpis quis, rutrum eleifend erat. Pellentesque id lorem eget ante porta tincidunt nec nec tellus.
 

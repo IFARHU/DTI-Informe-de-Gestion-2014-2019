@@ -207,14 +207,60 @@ Mediante la incorporación de estas dos unidades o secciones y sus respectivas c
 
 ## Capacitaciones y actualización en competencias
 
-## Pendientes
+El PETI realizado identificó ciertas capacidades y competencias que podrían mejorarse o desarrollarse mediante el desarrollo de un plan de capacitaciones anuales que debía ejecutarse con el personal de la DTI.
 
-### Linux, Linux Avanzado
+Durante los años 2014 a 2018 se desarrollaron algunas de las siguientes capacitaciones para reforzar o desarrollar capacidades o competencias en las distintas áreas de conocimiento de nuestra Dirección:
 
-### Seguridad, Seguridad Informática (actualización)
+**Desarrollo de Sistemas**
 
-### Bases de Datos (actualización)
+- Desarrollo Web con ASP.NET MVC
+- Arquitectura de Software
+- Desarrollo móvil (capacitación interna)
+- Desarrollo con PHP y Laravel (capacitación interna)
 
-### Nuevas técnicas y metodologías en Desarrollo de Software (actualización)
+**Soporte Técnico**
 
-### Atención al cliente interno del IFARHU
+- CompTIA A+
+- Cableado estructurado
+
+**Procesamiento de Datos**
+
+- SQL Server
+- BI con Tableau Software
+
+**Telecomunicaciones**
+
+- CompTIA Network+
+- CompTIA Security+
+- Ciberseguridad
+
+**Administración**
+
+- Big Data
+- BPMN y Procesos
+- Agile y Scrum
+- Lean y Kanban (capacitación interna)
+- Agile con Lego®
+- ITIL
+- Cobit
+- Atención al cliente
+- Ofimática (Excel y Word)
+- Administración de Proyectos (tradicional)
+
+## Trabajo Futuro
+
+### Desarrollar un nuevo Mapa y Plan Estratégico
+
+El IFARHU, durante el quinquenio siguiente, deberá promover la elaboración de un nuevo Mapa y Plan Estratégico que pueda guiar al IFARHU para apoyar a la gestión del Gobierno de turno y su plan de país.
+
+De igual forma, la DTI deberá encarrilar sus esfuerzos para la generación de su plan respectivo que pueda apoyar, a su vez, el Plan y Mapa Estratégico del IFARHU. A partir de allí, redefinir y reorientar las prioridades de la DTI en relación a las prioridades del IFARHU.
+
+### Capacitaciones
+
+De igual forma, hay ciertas capacidades y competencias técnicas que requieren nuevamente adquirirse o reforzarse, velando por el eje operativo de la DTI y promoviendo que la DTI pueda seguir brindando un servicio de calidad:
+
+- Linux y Linux Avanzado
+- Seguridad, Seguridad Informática (actualización)
+- Bases de Datos (actualización)
+- Nuevas técnicas y metodologías en Desarrollo de Software (actualización)
+- Atención al cliente
