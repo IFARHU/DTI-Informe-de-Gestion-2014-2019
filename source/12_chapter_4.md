@@ -59,9 +59,17 @@ De esta forma, hemos podido detectar de forma segura y reaccionar ante imprevist
 
 Actualmente dichas variables de entorno se verifican de forma completa en Sede Central y de forma parcial en las siguientes sedes del IFARHU:
 
+- Bocas del Toro
+- Panamá Oeste - La Chorrera
+- Colón - Colón
 - Chiriquí - David
+- Herrera - Chitré
+- Los Santos - Las Tablas
+- Panamá - Panamá Este
+- Panamá - San Miguelito
 - Veraguas - Santiago
-- Coclé - Penonomé
+- Panamá - Panamá Centro - Data Center
+- Panamá - Panamá Centro - Piso 16 (Tecnología)
 
 ### Instalación de Aires Acondicionados de Precisión
 
@@ -73,8 +81,8 @@ A partir de la instalación de los equipos para detectar y medir las variables d
 
 Los equipos adquiridos fueron los siguientes:
 
--
--
+- Compu Aire, con mantenimiento de la empresa Panama Hardware
+- TrippLite, con mantenimiento de la empresa La Casa de las Baterías
 
 Los aires acondicionados de precisión son sistemas específicos para ser utilizados en centros de datos y tienen la capacidad de crear y generar ambientes de temperatura y humedad regulada. De igual forma mantienen de forma más eficiente la pureza del aire.
 
