@@ -482,10 +482,36 @@ La intención de Slack no es la de reemplazar la comunicación cara a cara, si n
 
 Un ejemplo claro del uso de Slack con otras plataformas es con los proyectos de Software, mostrando de forma eficiente las actualizaciones en las tareas o cuando un nuevo código, relacionado a una tarea, ha sido desplegado y está pendiente para ser aprobado.
 
-### Nube de archivos: ownCloud y Nextcloud
+### Nube de archivos: ownCloud
 
-ownCloud
+El IFARHU ya poseía una serie de discos conectados a la red (NAS - _Network-attached Storage_), con una serie de carpetas compartidas entre distintos usuarios.
+
+Si bien es cierto y esta es una opción que funciona correctamente, la misma no permite la colaboración de distintas personas en los mismos archivos. Los archivos tampoco se encuentran en cada una de las computadoras que acceden a la carpeta compartida, lo que requiere que cada vez que un archivo sea necesario, la persona que requiere acceso al archivo debe descargar el mismo desde la carpeta compartida y luego modificarlo.
+
+Se implentó ownCloud\footnote{https://owncloud.org/} un potente sistema, de código libre y abierto, muy similar en términos a funcionalidad a Dropbox\footnote{https://www.dropbox.com/}.
+
+Algunas de las funcionalidades de ownCloud son las siguientes:
+
+- Tiene clientes para PC, Mac y Linux
+- Igualmente aplicaciones nativas para iOS y Android (sin embargo no las podemos utilizar, al estar en una red privada)
+- Permite compartir archivos a través de links públicos (dentro de la red privada)
+- Notificaciones
+- Colaboración y edición de documentos en línea
+- Etiquetados y comentarios
+- Calendarios y contactos
+- Versionamiento: si alteras un archivo, puedes volver a la versión anterior
+- Galerías y vídeos
+
+#### Migración a Nextcloud
+
+ownCloud funcionó perfectamente durante los años 2014 a 2019. En el año 2019 hemos migrado a una opción, basada en ownCloud, llamada Nextcloud\footnote{https://nextcloud.com/}.
+
+Nextcloud es un _fork_\footnote{Una versión de la comunidad, basado en el código fuente original pero que se ha ido modificando y alterando en su propia cuenta y "rama" de desarrollo.} de ownCloud.
+
+Muchos de los desarrolladores originales de ownCloud han migrado a Nextcloud, lo que hace que esta sea una versión con mayores actualizaciones a futuro.
 
 ## Trabajos futuros
 
 ### Sistema Único de Crédito Educativo (Fases posteriores)
+
+Todo lo concerniente a este proyecto se encuentra en su propio anexo.

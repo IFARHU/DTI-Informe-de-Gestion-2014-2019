@@ -6,4 +6,6 @@ El agradecimiento principal va a todos los colaboradores de esta Dirección dura
 
 Cualquiera de los logros obtenidos durante estos 5 años no hubiesen sido posible si no hubiese sido por contar con un equipo de tan alto nivel y compromiso.
 
+En la memoria de Alexis Batista (1971-2016), ex-colaborador de la DTI.
+
 \newpage
