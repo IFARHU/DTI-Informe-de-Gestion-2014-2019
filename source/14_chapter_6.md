@@ -105,3 +105,15 @@ Desde 2018 desplegamos e instalamos este sistema en los Departamentos de Procesa
 Otros proyectos que fueron desarrollados mediante un esquema y cultura de innovación fueron los descritos en el Eje 3, especialmente: IFARHU Verificar, Plataforma de Concursos, Plataforma de Concurso General, Conecta IFARHU y Administrador de Becas 2.0.
 
 Todos estos desarrollos fueron realizados por personal de la DTI y dichos proyectos fueron administrados y gestionados por personal operativo de la DTI directamente.
+
+## Clave Social
+
+La DTI fue un gran impulsor de la incorporación de Clave Social como método de pago para Beca Universal. En la actualidad, más de 120 mil estudiantes cobran a través del método de Clave Social del IFARHU, todo soportado por nuestra plataforma electrónica definida para tales fines.
+
+<!-- TODO -->
+
+## Trabajo Futuro
+
+Muchas plataformas requieren ser implementadas en el IFARHU pero, por motivos culturales de la Institución, se imposibilita la introducción en otras áreas operativas tal como debería realizarse.
+
+La DTI ha determinado que
