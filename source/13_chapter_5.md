@@ -439,11 +439,11 @@ La SSU asumió completa responsabilidad para el recibo de dichos reportes, pero 
 
 El IFARHU eliminó las licencias de los otros sistemass e implementó un sistema libre, abierto y de licenciamiento gratuito conocido como osTicket\footnote{https://osticket.com/}, considerado como uno de los mejores de soporte de software gratuitos del mercado.
 
-A través de este sistema, al día de hoy se han registrado y cerrado más de 33 mil incidencias y reportes en el IFARHU, desde su implementación en 2014, permitiendo completa visibilidad y mejorar índices de satisfacción por el servicio del IFARHU\footnote{Según los resultados de las encuestas de satisfacción de los clientes de la DTI, la inmensa mayoría está satisfecha con nuestro servicio}.
+A través de este sistema, al día de hoy se han registrado y cerrado más de 33 mil incidencias y reportes en el IFARHU, desde su implementación en 2014, permitiendo completa visibilidad y mejorar índices de satisfacción por el servicio del IFARHU\footnote{"Según los resultados de las encuestas de satisfacción de los clientes de la DTI, la inmensa mayoría está satisfecha con nuestro servicio" - PETI del IFARHU - Entregable 1 - Diagnóstico}.
 
 #### Sistema de Dashboard para los Tiquetes
 
-La DTI desarrolló e implementó un Tablero de Mando basado en una tecnología conocida como "Dashing", desarrollada por Shopify y liberó todo el código fuente\footnote{https://osticket.com/} de dicho proyecto para hacerlo de uso libre y gratuito para cualquier otra entidad que quisiera implementarlo.
+La DTI desarrolló e implementó un Tablero de Mando basado en una tecnología conocida como "Dashing", desarrollada por Shopify y liberó todo el código fuente\footnote{\url{https://github.com/IFARHU/osticket_dashing/}} de dicho proyecto para hacerlo de uso libre y gratuito para cualquier otra entidad que quisiera implementarlo.
 
 ![Tablero de Mando de los tiquetes \label{chap5_fig11}](source/figures/chap5_fig11.png){ width=90% }
 
