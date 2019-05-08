@@ -14,3 +14,6 @@
 - ITIL: Information Technology Infraestructure Library
 - COBIT: Control Objectives for Information and Related Technologies
 - SLA: Acuerdo de Niveles de Servicio (Service Level Agreement)
+- OIRH: Oficina Institucional de Recursos Humanos
+- PMO: Oficina de Gestión/Administración de Proyectos (Project Management Office)
+- BNP: Banco Nacional de Panamá

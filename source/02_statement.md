@@ -16,19 +16,19 @@
         \vspace{0.8cm}
 
         \normalsize
-        José Magallón\\
+        José Cristino Magallón Rosas\\
         Jefe del Departamento de Desarrollo de Sistemas
 
         \vspace{0.8cm}
 
         \normalsize
-        Samuel Sánchez\\
+        Samuel Sánchez Martínez\\
         Jefe del Departamento de Soporte Técnico (E) y Telecomunicaciones
 
         \vspace{0.8cm}
 
         \normalsize
-        Yahaira Castillo\\
+        Yahaira Edith Castillo Ortega\\
         Jefa del Departamento de Procesamiento de Datos
 
         \vspace{1.5cm}

@@ -166,6 +166,8 @@ Gracias a Taboga, el IFARHU ha podido desarrollar una serie de proyectos, produc
 
 Como parte interesante, Taboga fue publicado y liberado de forma pública por la DTI del IFARHU y hecho público en la plataforma de GitHub\footnote{https://github.com/ifarhu/taboga}, siendo (según nuestro conocimiento) el primer proyecto gubernamental panameño publicado en GitHub bajo licencia MIT \footnote{https://github.com/twbs/bootstrap/blob/master/LICENSE}.
 
+![IFARHU ganó dos categorías en los premios nacionales para la Innovación Gubernamental durante el año 2016. \label{chap5_fig8}](source/figures/chap5_fig8.jpg){ width=100% }
+
 Gracias a su desarrollo, el IFARHU ganó un premio de innovación en 2016 \footnote{http://innovacion.gob.pa/noticia/2721}. Todo el desarrollo de este proyecto fue hecho por el equipo y personal de la DTI.
 
 ### Sitio Web IFARHU
@@ -441,7 +443,7 @@ A través de este sistema, al día de hoy se han registrado y cerrado más de 33
 
 #### Sistema de Dashboard para los Tiquetes
 
-La DTI desarrolló e implementó un Tablero de Mando basado en una tecnología conocida como "Dashing", desarrollada por Shopify y liberó todo el código fuente \footnote{https://github.com/IFARHU/osticket_dashing} de dicho proyecto para hacerlo de uso libre y gratuito para cualquier otra entidad que quisiera implementarlo.
+La DTI desarrolló e implementó un Tablero de Mando basado en una tecnología conocida como "Dashing", desarrollada por Shopify y liberó todo el código fuente\footnote{https://osticket.com/} de dicho proyecto para hacerlo de uso libre y gratuito para cualquier otra entidad que quisiera implementarlo.
 
 ![Tablero de Mando de los tiquetes \label{chap5_fig11}](source/figures/chap5_fig11.png){ width=90% }
 
@@ -510,8 +512,11 @@ Nextcloud es un _fork_\footnote{Una versión de la comunidad, basado en el códi
 
 Muchos de los desarrolladores originales de ownCloud han migrado a Nextcloud, lo que hace que esta sea una versión con mayores actualizaciones a futuro.
 
-## Trabajos futuros
+## Trabajo futuro
 
-### Sistema Único de Crédito Educativo (Fases posteriores)
-
-Todo lo concerniente a este proyecto se encuentra en su propio anexo.
+- **Sistema Único de Crédito Educativo (Fases posteriores): Todo lo concerniente a este proyecto se encuentra en su propio anexo.** Consideramos que este proyecto debe ser la pr
+- Seguir incentivando el desarrollo en nuevas tecnologías y bajo nuevos modelos y mecanismos de desarrollo.
+- Realizar un trabajo completo en la re-arquitectura y re-ingeniería de los sistemas de bases de datos del IFARHU. En auditorías previas, se determinaron malas prácticas en el diseño actual, sin embargo se requeriría un trabajo titánico para hacer la migración a un esquema adecuado.
+- En cuanto al punto anterior, se determinó que la forma más correcta sería migrar las aplicaciones mediante el nuevo desarrollo de muchos de estos aplicativos en forma completa.
+- Desarrollar más aplicaciones para el usuario final (nuestros beneficiarios), 
+- Evaluar la incorporación de Firma Electrónica en algunos procesos del IFARHU. La Ley 51 de 22 de julio de 2008, define y regula los documentos electrónicos y las firmas electrónicas y la prestación de servicios de almacenamiento tecnológico de documentos y de certificación de firmas electrónicas y adopta otras disposiciones para el desarrollo del comercio electrónico. La Ley 82 de 9 de noviembre de 2012, otorga al Registro Público de Panamá atribuciones de autoridad registradora y certificadora raíz de firma electrónica para la República de Panamá, modifica la Ley 51 de 2008.

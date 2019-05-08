@@ -15,4 +15,5 @@ A partir del **Capítulo 3** se trabajará el documento a través de distintos e
 - **Capítulo 3:** Eje 1: Estratégico y Capital Humano.
 - **Capítulo 4:** Eje 2: Arquitectura Tecnológica, Telecomunicaciones, Seguridad e Infraestructura
 - **Capítulo 5:** Eje 3: Desarrollo de Software y Plataformas Digitales
-- **Capítulo 6:** Eje 4: Innovación
+- **Capítulo 6:** Eje 4: Liderazgo e Innovación
+- **Capítulo 7:** Eje 5: Operatividad y Mantenimiento

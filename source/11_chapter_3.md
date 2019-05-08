@@ -52,6 +52,11 @@ Dichos trabajos tenía 3 entregables finales:
 
 **Nota:** Cabe destacar que esto no indica que durante los años 2014 (meses de julio a diciembre) y 2015 no se ejecutaron labores en nuestra Dirección, si no que dichos trabajos se realizaron a partir de una hoja de ruta realizada durante los meses de junio 2014 y julio 2014, mas los mismos no necesariamente sostenían la estrategia de la Institución, al no contar hasta 2015 con un Mapa y Plan Estratégico, el cuál es el _input_ para la realización de cualquier PETI.
 
+Al ser un trabajo a nivel estratégico, el PETI del IFARHU debía estar orientado a soportar dos otros documentos y trabajos de orden superior:
+
+- El Plan y Mapa Estratégico del IFARHU (2014-2019), que a su vez soporta el Plan de Gobierno (2014-2019).
+- Al ser un proyecto de orden tecnológico, debía soportar igualmente la Agenda Digital Estratégica del Estado Panameño (2014-2019).
+
 Mucho del trabajo se centró en el proceso inicial (Diagnóstico) ya que el resto del trabajo se centraría en el análisis y desarrollo en base a este entregable.
 
 Se realizaron talleres y encuestas, tanto con colaboradores de la DTI como de nuestros clientes internos y usuarios. Se realizó una encuesta de clima organizativo.

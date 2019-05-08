@@ -20,14 +20,14 @@
         \vfill
 
         \normalsize
-        Delia Arosemena\\
+        Delia María Arosemena Medina\\
         Directora General del IFARHU
 
         \vspace{0.8cm}
 
         \normalsize
         Ciudad de Panamá, República de Panamá\\
-        Año 2019
+        Mayo de 2019
 
     \end{center}
 \end{titlepage}

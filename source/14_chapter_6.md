@@ -110,10 +110,74 @@ Todos estos desarrollos fueron realizados por personal de la DTI y dichos proyec
 
 La DTI fue un gran impulsor de la incorporación de Clave Social como método de pago para Beca Universal. En la actualidad, más de 120 mil estudiantes cobran a través del método de Clave Social del IFARHU, todo soportado por nuestra plataforma electrónica definida para tales fines.
 
-<!-- TODO -->
+El IFARHU desarolló seis diferentes fases del programa de Clave Social, adjuntando 392 colegios al programa.
+
+El papel de la DTI ha sido un papel clave, puesto que al ser pagos electrónicos, mucho del peso administrativo del programa recae sobre la DTI, especialmente los procesos de:
+
+- Levantar los listados de aperturas para el uso del Banco Nacional de Panamá (BNP) para las nuevas aperturas de cuentas únicas simplificadas (clave social).
+- Definir con el MEDUCA el proceso de seguimiento (en base a la Ley de Beca Universal y el Manual Operativo de Beca Universal).
+- Definir el Manual de Seguimiento de Clave Social (Beca Universal) en conjunto con el MEDUCA.
+- Levantar los listados para el seguimiento masivo con MEDUCA.
+- Definir el proceso para el seguimiento masivo, a partir del archivo recibido por MEDUCA.
+
+Gracias a estos procesos y la incorporación de Clave Social, el IFARHU redujo el tiempo requerido para pagar masivamente a los beneficiarios de Beca Universal, reduciendo el costo operativo para la entrega de dichos pagos e incluso reduciendo horas de trabajo, la discrecionalidad al momento de entregar el pago.
+
+Otros beneficios de Clave Social son:
+
+- El seguimiento se hace automático, consumiendo directamente de la fuente de información adecuada (el MEDUCA).
+- Una vez los pagos son autorizados, todos los estudiantes pertenecientes a una planilla reciben sus pagos.
+- Se eliminan las largas filas, los días perdidos de clases y los permisos de los representantes legales de los estudiantes para ir al centro a buscar los pagos.
+- No se requieren horas adicionales de trabajo por parte del personal del IFARHU para generar, imprimir y entregar los pagos. Reducen los costos, al no requerir el pago de horario extraordinario ni tantos pagadores.
+- **Según se sugirió por parte de la DTI, se podría implementar un control más estricto para el uso racional y correcto de los fondos destinados a la Beca Universal.**
+
+El programa de Clave Social ha sido muy criticado porque los pagos requieren ser realizados solo después de la verificación con el MEDUCA y no antes, a diferencia de los pagos por cheque que pueden ser generados e impresos antes, pero deben verificarse si se cumplen todos los requisitos para el cobro, al momento de entregar el pago.
+
+La DTI, durante el año 2019, ha podido iniciar conversaciones con el BNP y la empresa BioSoft, creadores del programa MEREB para los colegios particulares de Panamá, lo que nos permitiría llegar a estos centros educativos en el programa de Clave Social - Beca Universal.
+
+## Interoperabilidad
+
+La interoperabilidad es la capacidad que tiene un producto o un sistema, cuyas interfaces son totalmente conocidas, para funcionar con otros productos o sistemas existentes o futuros y eso sin restricción de acceso o de implementación\footnote{Traducción por Pascual Chevrel}.
+
+En el caso gubernamental, es la capcidad de que sistemas de dos instituciones puedan interoperar o colaborar, permitiendo el flujo de datos e información en ambas vías, mediante un canal designado y un patrón o esquema acordado.
+
+La interoperabilidad con otras instituciones no existieron en el IFARHU hasta el año 2014, entrada esta administración, permitiéndole a esta administración cumplir con lo establecido en la Ley 83 de noviembre de 2012, la cual señala:
+
+> Los usuarios estarán exentos de aportar datos y/o documentos que reposen en las bases de datos de las entidades públicas. Corresponderá a estas entidades obtener dicha información de la base de datos que corresponda. En el caso de información confidencial o de acceso reservado, se deberá contar con el consentimiento expreso de los interesados o cumplir con los requerimientos que reguulan la protección de este tipo de información. El citado consentimiento podrá emitirse y recabarse por medios electrónnicos. — Ley 83 de 2012, Capítulo II, Artículo 4, Numeral 3.
+
+Durante esta administración se pudieron realizar dos proyectos de interoperabilidad del IFARHU con otras instituciones.
+
+### MIDES: Revisión de Corresponsabilidades para el progama de Red de Oportunidades
+
+Durante una reunión con personal del MIDES, donde se analizaban mecanismos más eficientes para verificar la corresponsabilidad del programa de Red de Oportunidades, en uno de sus componentes (Educación). El IFARHU trabajó con el MIDES para ofrecer su apoyo técnico, tecnológico e informativo, para que la verificación de dicha corresponsabilidad se pudiese hacer a través de los sistemas de IFARHU.
+
+Se definió el esquema de interoperabilidad con el MIDES, definiendo las variables de entrada y salida del proceso. Las variables de entrada serían dadas por el MIDES y las variables de salida serían entregadas, luego del procesamiento, por el IFARHU.
+
+Este proyecto se realizó en dos formas o etapas:
+
+1. La primera forma, se realizó entre los años 2014 a 2017, se realizaba mediante la solicitud por escrito de parte del MIDES, con un listado de personas para comparar contra nuestros registros de Beca Universal.
+1. La segunda forma, se realizó a partir del año 2018. Esta forma involucraba la incorporación de tecnología en ambos extremos.
+
+En la segunda forma, el IFARHU implementó un API (interfaz de programación de aplicaciones, por sus siglas en inglés) que permitió el consumo de forma segura por parte del sistema del MIDES, siguiendo nuestros modelos y buenas prácticas de seguridad.
+
+Desde su implementación a partir de 2018, el MIDES ha realizado más de 200 mil consultas de forma automática a los sistemas de IFARHU. Dicho API reside como un sub-componente dentro de Conecta IFARHU, descrito en el Eje 3.
+
+### Banco Nacional de Panamá (Clave Social y Beca Universal)
+
+Además de la implementación de Clave Social realizada por el IFARHU en conjunto con el BNP, descrito anteriormente en este capítulo, la DTI pudo realizar en forma colaborativa con el personal del BNP la implementación de un nuevo esquema para la carga masiva de los registros de los becarios de Beca Universal que cobran por cheque.
+
+Todos los cheques que son generados en el IFARHU requieren ser registrados en los sistemas de verificación del BNP para su posterior cobro. Es por ello que el IFARHU envía al BNP el listado de los cheques y sus generales para la respectiva aplicación dentro de sus sistemas.
+
+Con anterioridad, el IFARHU requería enviar estos listados por medio físico (Disco Compacto). Este proceso se agilizó y mejoró mediante la incorporación de un canal privado entre el BNP y el IFARHU.
+
+Los archivos ahora reciden en un sistema de IFARHU y el BNP puede consumir y registrar dichas cargas en cuestión de minutos, reduciendo notablemente el tiempo de registro y entrega de estos listados y agilizando el proceso.
+
+### Tribunal Electoral: Revisión y validación de generales
+
+Tal como describimos en el Eje 3, la primera interoperabilidad con otra institución la realizó el IFARHU con el Tribunal Electoral.
 
 ## Trabajo Futuro
 
-Muchas plataformas requieren ser implementadas en el IFARHU pero, por motivos culturales de la Institución, se imposibilita la introducción en otras áreas operativas tal como debería realizarse.
-
-La DTI ha determinado que
+- Muchas plataformas requieren ser implementadas en el IFARHU pero, por motivos culturales de la Institución, se imposibilita la introducción en otras áreas operativas tal como debería realizarse. La DTI ha determinado que es requerido un alto esfuerzo de cambio cultural en como la Institución percibe a la DTI, para que se comprenda que la DTI juega un rol clave en la Institución, no solo desde una perspectiva operativa, mas también desde una perspectiva estratégica.
+- De igual forma, solicitar al Despacho Superior retomar nuestras recomendaciones para que, a través de la Dirección de Planificación o como una oficina vinculada al Despacho Superior, se cree una PMO para centralizar el proceso de gestión y administración de proyectos.
+- Sugerir un cambio de Dirección para la DTI, de Dirección de Tecnología Informática a Dirección de Innovación y Tecnología.
+- A nivel de Clave Social, sugerimos que el programa deba incrementar su aplicación a nivel nacional y sugerimos continuar las conversaciones con BioSoft para que el programa pueda llegar a los centros educativos particulares de Panamá.

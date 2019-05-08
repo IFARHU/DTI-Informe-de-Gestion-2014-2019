@@ -101,7 +101,102 @@ Mismo personal fue entrenado igualmente en cableado de red básico, como muestra
 
 Estas capacitaciones nos aportó en reducir los reportes recibidos a nivel nacional, además de los costos necesarios en movilización a las distintas provincias y sedes del IFARHU para atenciones básicas primarias.
 
-## Creación de contratos de mantenimiento a nivel nacional
+## Creación de contratos de mantenimiento y alquiler a nivel nacional
+
+Tal como se describió en el **Eje 2**, se crearon contratos de mantenimiento de impresoras a nivel nacional y alquiler (impresoras) a nivel de Planta Central.
+
+Sin embargo, estos no fueron los únicos de contratos de licenciamiento que se procuraron mantener durante esta administración. Los contratos de mantenimiento y licenciamiento que se mantienen actualmente en el IFARHU son los siguientes:
+
+-------------------------------------------------------------------------------------------
+Nombre                             Proveedor actual        Vigente hasta
+------------------------------     ------------------      --------------------------------
+PROY-2-2019 - Servicio de          Panama Hardware         Diciembre 2019
+mantenimiento preventivo
+y correctivo al sistema
+centralizado de energía
+(UPS) del Centro de Datos
+
+PROY-3-2019 - Servicio de          Panama Hardware         Diciembre 2019
+mantenimiento al Sistema de
+Aire Acondicionado del 
+entro de Datos (COMPU-AIRE)
+
+PROY-4-2019 - Servicio de Datos    Cable Onda              Diciembre 2019
+para lugares de difícil acceso
+
+PROY-5-2019 - Servicio de          Cable Onda y CWP        Diciembre 2019
+Internet y Enlaces de
+Comunicaciones
+
+PROY-6-2019 - Licencia Anual       Soluciones Seguras      Diciembre 2019
+para el Sistema de Cortafuegos
+del IFARHU
+
+PROY-7-2019 - Soporte y            Soluciones Seguras      Diciembre 2019
+mantenimiento para el sistema
+de Cortafuegos del IFARHU
+y protección contra SPAM
+
+PROY-8-2019 - Mantenimiento        Canon Panamá            Diciembre 2019
+para 39 impresoras (Canon)
+
+PROY-9-2019 - Alquiler de 30       Canon Panamá            Diciembre 2019
+impresoras en Planta Central
+
+PROY-10-2019 - Servicio de         CWP                     Diciembre 2019
+Internet Móvil Inalámbrico
+
+PROY-11-2019 - Mantenimiento y     GSI                     Diciembre 2019
+licencias para el sistema de
+digitalización documental
+
+PROY-12-2019 - Mantenimiento       Casa de las Baterías    Diciembre 2019
+de 3 unidades de Aire
+Acondicionado de Respaldo
+para el Centro de Datos
+
+PROY-13-2019 - Licencias de        Data Security Solutions Diciembre 2019
+Auditor de Active Directory
+(JiJi)
+
+PROY-14-2019 - Licencias para      Data Security Solutions Diciembre 2019
+sistema de monitoreo (PRTG)
+
+PROY-15-2019 - Licencias para      WICOSY                  Mayo 2020
+sistema basado en VMWare y
+RedHat
+
+PROY-16-2019 - Mantenimiento a     RICOH                   Diciembre 2019
+impresoras RICOH a nivel
+nacional
+
+PROY-17-2019 - Adquisición de       Xplor                  Diciembre 2019
+Licencia, Mantenimiento y
+Soporte de Sistemas para
+Kioskos
+
+PROY-18-2019 - Licencias de         Soft Net               Abril 2020
+Adobe Creative Cloud
+
+-------------------------------------------------------------------------------------------
+
+Los mantenimiento que no pudieron realizarse, debido a que no se encontraban en el proceso de renovación durante el cierre de esta administración, son los siguientes:
+
+-------------------------------------------------------------------------------------------
+Nombre                             Proveedor actual        Vigente hasta
+------------------------------     ------------------      --------------------------------
+Licencias de Tableau y             Excibit Corp.           Octubre de 2019
+Tableau Server
+
+Renovación de licencias de         Logic Studio            Diciembre de 2019
+Jira y Confluence
+
+Renovación de licencias            TECNASA                 Octubre de 2019
+Microsoft
+
+-------------------------------------------------------------------------------------------
+
+> **Nota:** Todos los mantenimientos que requirieron ser renovados para el año 2019 fueron renovados con vigencia total de 2019, procurando la operatividad institucional a nivel tecnológico-informático.
 
 ## Procesos y Flujos
 
@@ -140,3 +235,27 @@ Este formulario debe ser aprobado por la DTI y la Oficina Institucional de Recur
 La DTI, según las Políticas de Seguridad Informática, tiene la última potestad de dar o no los permisos solicitados para un personal en particular.
 
 ### Solicitud de publicación de contenidos web
+
+El Despacho Superior del IFARHU, mediante Memorando DG-110-2016-1520, estableció la norma mediante la cual se establece que cualquier contenido a ser publicado en el sitio web público del IFARHU debía ser aprobado por personal asesor o parte de la Dirección General del IFARHU.
+
+Por tal motivo, y considerando que los contenidos con fines comunicativos por parte del IFARHU son canalizados a través de la Oficina de Relaciones Públicas del IFARHU\footnote{Según los objetivos de dicha Oficina, establecidos en el Manual de Organización y Funciones del IFARHU} la Dirección de Tecnología Informática estableció un formulario para la solicitud de publicación de nuevos contenidos para la web pública del IFARHU.
+
+Dicho formulario físico debe contener la firma autorizada de:
+
+- Personal solicitante de la publicación de dicha información.
+- Personal de la Dirección General del IFARHU.
+- Personal de la Oficina de Relaciones Públicas del IFARHU.
+
+Una vez recibida dicha solicitud, se realizaría una solicitud de un reporte a través del sistema de atención del IFARHU y se designaría al personal de la DTI para la publicación del contenido (si el mismo procede).
+
+Dicho flujo se realiza igualmente para ciertos contenidos a ser publicados públicamente del IFARHU, como fondos de pantalla o noticias especiales en la Intranet.
+
+## Trabajo Futuro
+
+- Trabajar con la OIRH para crear la figura de enlaces técnicos regionales o poder contratar a personal anexo a la DTI pero que se encuentre en las oficinas regionales principales y que puedan brindar respaldo a las oficinas aledañas.
+- Mejorar la capacitación del personal de enlace de la DTI en las oficinas regionales.
+- Desarrollar una capacitación integrada en temas tecnológicos orientado al personal del IFARHU, apoyándonos en instituciones como INADEH. Este proyecto se intentó realizar durante esta administración, pero por cambios administrativos en INADEH el proyecto quedó desamparado.
+- Aumentar la operatividad de los planes de alquiler de impresoras, los cuales han dado excelentes resultados, a las oficinas regionales del IFARHU a nivel nacional, con especial énfasis en las Direcciones Provinciales y Comarcales, las que usulamente desarrollan el mayor de los flujos.
+- Seguir con las visitas periódicas, ya que los resultados han sido efectivos en disminuir los incidentes reportados en las distintas direcciones regionales.
+- Uno de los grandes problemas que hemos tenido en esta administración está orientado a la compra de equipos para mantener en inventario, en referencia a cuestionamientos por la Oficina de Control Fiscal de la Contraloría General de la República. La DTI no ha podido mantener un _stock_ de inventario de equipos que frecuentemente se requieren, como UPS, computadoras (laptops y de escritorio), componentes (memorias, discos duro, placas madre, etc.), baterías de reemplazo en UPS, impresoras, entre otros. Esto ocasiona un problema ya que, de requerir un equipo, debemos hacer la solicitud cuando la necesidad se de y no antes. **Esto afecta la operatividad y el servicio que como DTI brindamos, ya que en muchos casos debemos esperar varios meses para poder suministrar los equipos que se están requiriendo, lo que ocasiona retrasos en brindar nuestros servicios e incumplimientos en los acuerdos de niveles de servicio (SLA)**.
+- Solicitarle a la OIRH una mejor comunicación con la DTI en temas de manejo de personal, especialmente cuando se den contrataciones y destituciones.

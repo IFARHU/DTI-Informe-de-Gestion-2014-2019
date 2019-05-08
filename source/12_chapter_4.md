@@ -34,17 +34,9 @@ Para ello, se evaluaron las disponibilidades actuales en el mercado panameño y 
 
 Gracias a este cambio **el IFARHU redujo en un 96% los gastos** relacionados con mantener estas plataformas operativamente activas y con un **99.99% de _uptime_** para todas las aplicaciones, además de contar con mayor facilidad y flexibilidad para el manejo y administración de todos sus recursos en la nube, permitiéndole mayor agilidad para desarrollar nuevas aplicaciones o servicios públicos.
 
-### Expansión de nodos virtuales (HP)
-
-<!-- TODO -->
-
-### Expansión de nodos virtuales (Dell)
-
-<!-- TODO -->
+### Expansión de nodos virtuales (HP y DELL)
 
 ### Monitoreo y variables de ambiente
-
-<!-- TODO -->
 
 Se detectó la imposibilidad de poder medir las variables físicas, o de ambiente, tanto en el Centro de Datos de Planta Central como en los cuartos de comunicación de todas las Sedes y Oficinas Regionales del IFARHU a nivel nacional.
 
@@ -73,8 +65,6 @@ Actualmente dichas variables de entorno se verifican de forma completa en Sede C
 
 ### Instalación de Aires Acondicionados de Precisión
 
-<!-- TODO -->
-
 Anteriormente, el Centro de Datos del IFARHU, localizado en Planta Central del IFARHU, contaba con dos aires acondicionados de tipo split, los cuales funcionaban 24/7/365.
 
 A partir de la instalación de los equipos para detectar y medir las variables de entorno, encontramos que tanto la temperatura como la humedad del Centro de Datos del IFARHU no se mantenían ni de forma estable ni en las condiciones propicias para mantener un equipo informático. Es por ello que desarrollamos un proyecto en dos fases, para equipar a nuestro Centro de Datos de equipos de enfriamiento nuevos, con unidades de precisión.
@@ -102,11 +92,9 @@ Para mejorar la eficiencia del aire acondicionado y el deshumidificador de aire 
 
 Se instaló una separación en vidrio y aluminio, conteniendo de forma completa el área de servidores.
 
-### Mejora del sistema eléctrico del centro de datos
-
 ### Incorporación de UPS centralizados (Direcciones Regionales) e Instalación de "Tierra" (Ground)
 
-Gracias a la generación de giras constantes con las distintas sedes del IFARHU se detectaron ciertas anomalías con sus sistemas eléctricos y se definieron dos grupos para su atención.
+Gracias a la generación de giras constantes con las distintas sedes del IFARHU se detectaron ciertas anomalías con sus sistemas eléctricos y se definieron tres grupos para su atención.
 
 Anteriormente se instalaban equipos de supresión de voltaje y baterías (UPS) independientes para cada cubículo o espacio de trabajo. Los equipos de comunicación de la regional no se encontraban instalados correctamente desde una perspectiva eléctrica igualmente.
 
@@ -119,19 +107,78 @@ Se realizó:
 
 #### Grupo 1 - Prioritario
 
-<!-- TODO -->
-
 Se instalaron UPS centralizados en las siguientes regionales en el primer grupo de instalaciones:
 
-1. 
+1. Coclé - Penonomé
+1. Herrera - Chitré
+1. Los Santos - Las Tablas
+
+Se escogieron estas regionales principales para el grupo prioritario, debido a que las mismas representaban las regionales con mayor incidentes eléctricos reportados.
+
+Este primer grupo nos permitiría hacer una evaluación de la efectividad de centralizar el sistema de UPS en las regionales y hacer una evaluación monetaria.
 
 #### Grupo 2 - Secundario
 
-<!-- TODO -->
+Posterior a la primera fase del Grupo 1 - Prioritario, y habiendo hecho las evaluaciones que arrojaron resultados significativamente positivos, listamos las siguientes regionales que están listas para incorporar una unidad de UPS centralizada:
+
+1. Panamá - San Miguelito
+1. Panamá - Panamá Norte
+1. Chiriquí - David
+1. Veraguas - Santiago
+1. Colón - Colón
+
+#### Grupo 3 - A futuro
+
+El tercer grupo lo incorporan regionales que requieren trabajos eléctricos por parte del Departamento de Obras Físicas de la Institución (parte de la Dirección de Administración) previo al trabajo por parte de nuestra Dirección en la incorporación de dichas unidades centralizdas.
+
+1. Panamá Oeste - Arraiján
+1. Panamá Oeste - La Chorrera
+
+#### Supresores de Voltaje
+
+En las regionales de Changuinola, Chiriquí Grande, David, Panamá Norte, San Miguelito y Centro de Datos de Sede Central, se requirió adquirir e instalar un supresor de tensión (Protector eléctrico) en el panel eléctrico principal donde se suministra energía eléctrica a los equipos informáticos, la instalación de estos equipos tienen la función de contrarrestar las variaciones o sobre tensiones que afectan los equipos (Routers, switches, central telefónica, laptops, impresoras, entre otros), comunicaciones y el trabajo  (Consultas, tramites, entre otras funciones) diario de los usuarios internos de la institución, tanto en la atención a los usuarios externos.
+
+Se instalaron los siguientes equipos y en las siguientes Oficinas:
+
+- Bocas del Toro (Changuinola): 1 Supresor de tensión 50 kA por modo, 100 kA por fase.
+- Bocas del Toro (Chiriquí Grande): 1	Supresor de tensión 50 kA por modo, 100 kA por fase.
+- Chiriquí (David): 1 Supresor de tensión 50 kA por modo, 100 kA por fase.
+- Panamá Norte: 1 Supresor de tensión 50 kA por modo, 100 kA por fase.
+- San Miguelito: 1 Supresor de tensión 50 kA por modo, 100 kA por fase.
+- Planta Central Centro de Datos - Sede Central: 1 Supresor de tensión 50 kA por modo, 100 kA por fase.
+
+La problemática de las frecuentes variaciones y sobre-tensiones en la zona donde están ubicadas cada regional afectan directamente los equipos informáticos y de comunicaciones por estas anomalías eléctricas que se introducen por la red eléctrica donde se alimentan estos equipos; por consiguiente la instalación de un supresor de tensión es de importancia para evitar el daño de los equipos a mencionar: impresoras, computadoras (laptop y escritorio), central telefónica, switches, routers, entre otros.
+Esta instalación nos permitirá evitar el daño y aumentar el tiempo de vida de los equipos, ya que son la base del sistema de la institución y son muy costosos, agregando el aumento del tiempo de vida de los mismos, optimizar el rendimiento, mantener la comunicación entre el centro de datos y regionales que podrían ser afectadas, la continuidad del sistema y seguir brindando una excelente atención al cliente. 
+
+### Incorporación de nuevas oficinas regionales
+
+La DTI trabajó en la incorporación de nuevas oficinas regionales del IFARHU, las cuales fueron inauguradas durante la administración 2014-2019.
+
+Se realizó:
+
+- Instalación del equipo informático (computadoras, baterías de respaldo, impresoras, cámaras).
+- Cableado estructurado.
+- Equipos de comunicación (switches, router).
+- Instalación de servicios de comunicación (enlaces).
+
+Las regionales nuevas que requirieron ser equipadas fueron las siguientes:
+
+- Panamá Oeste - Arraiján
+- Tortí
+- Coclé - Aguadulce
+- Bocas del Toro - Chiriquí Grande
+- Veraguas - Santiago (mudanza, debido a construcción de nuevo edificio)
 
 ### Actualización de equipos
 
-<!-- TODO -->
+Anualmente, se han ido reemplazando y actualizando los equipos informáticos que han ido requiriendo cambios constantes.
+
+Durante los años 2018 y 2019 se han comprado equipos informáticos para reemplazar los equipos que cumplieron su vida útil, especialmente los que corren sobre sistema operativo Microsoft Windows 7.
+
+Se decidió durante esta administración:
+
+- No comprar más equipos de tipo portatil (laptops).
+- Comprar equipos pequeños, que pudiesen ser montados de forma fácil y rápida e idealmente al monitor directamente (lo que los hace más seguros ante robos).
 
 ### Adquisición de planes de alquiler para impresoras y unificación de los equipos
 
@@ -150,9 +197,15 @@ Notamos igualmente que al disminuir la cantidad de equipos, pero comprar equipos
 
 ### Actualización de Sistema de Correos Electrónicos
 
-<!-- TODO -->
+Se necesitó crear nuevamente 2 servidores de correo (principal y respaldo) del IFARHU y actualizarlos a la última versión. Uno de ellos debe ser activo y otro pasivo, esto es necesario porque los servidores confrontaron anomalías en su actualización, debido a que muchas veces se perdió el fluido eléctrico y los mismos sufrieron daños en sus librerías y bases de datos internas.
 
-Durante el año 2018 se hizo una actualización completa a la última versión del sistema de correos electrónicos. De igual forma, en años anteriores, se creó un servidor paralelo para no contar con un único servidor para tal fin.
+Se requierió la creación de una nueva plataforma de 2 servidores de correos y posterior a la creación se deberá migrar 3 bases de datos de usuarios a la nueva plataforma, las bases de datos ya están creadas: Administrativos, Críticos y VIP en las servidores antiguos.
+
+Se requirió instalar la última versión de Microsoft Exchange 2016 para brindar un mejor servicio a todos los funcionarios que requieren de esta herramienta, a su vez se debe de programar mantenimientos y limpieza de las bases de datos por parte de los usuarios y de los administradores de los servidores constantemente ósea semestralmente o trimestral, para mantener optimas las bases de datos al igual que a los servidores.
+
+El servicio debe se ejecutó por una empresa (TECNASA) certificada que garantizó la instalación y configuraciones según las reglas de ITIL.
+
+Gracias a esta migación, el servicio de correos del IFARHU ha funcionado de forma regular y con las últimas prestaciones de esta versión.
 
 ## Redes y Telecomunicaciones
 
@@ -229,11 +282,104 @@ La conectividad con la red del IFARHU, a su vez, se realiza mediante la incorpor
 
 Mediante un desarrollo interno con personal de la DTI y consultores externos, se pudo realizar la instalación de un servidor PBX que utiliza tecnología libre y abierta, como Asterisk.
 
-La intención de realizar este trabajo es debido a que cada licencia AVAYA (nuestra Central Telefónica principal) tiene un costo unitario de **XX**, mientras que las líneas 
+La intención de realizar este trabajo es debido a que cada licencia AVAYA (nuestra Central Telefónica principal) tiene un costo unitario de **XX**, mientras que las líneas
 
 Hasta el día de hoy contamos con **X** líneas instaladas que utilizan esta tecnología y la calidad del servicio ha sido comparable con las otras dos tecnologías con las que contamos en la actualidad y sin costo alguno más que la compra del equipo telefónico.
 
 ## Seguridad Informática
+
+### Descentralización del Sistema de Vídeo Vigilancia a nivel nacional
+
+En administraciones previas, el IFARHU invirtió en un Sistema Centralizado de Vídeo Vigilancia para todas sus sedes operativas a nivel nacional. La intención de dicho proyecto se centraba en permitir la convergencia de todas las grabaciones en un único punto: la Sede Central del IFARHU ubicada en Planta Central.
+
+La inversión para este proyecto ascendió a más de B/. 700,000, entre la adquisición de todos los equipos tecnológicos y la mano de obra para la instalación de los mismos.
+
+Durante una auditoría técnica desarrollada por la DTI durante esta administración, encontramos dos grandes problemas al enfoque planteado durante estas inversiones previas:
+
+**Problema #1 – Ancho de Banda Escaso**
+
+Este proyecto no contemplo la débil infraestructura de telecomunicaciones nacional, la cual no permite mediante los canales actuales la transmisión de vídeo y datos en forma paralela en tiempo real.
+
+El impedimento principal para esta infraestructura centralizada es la carencia de suficiente ancho de banda que permita transmitir tantos datos en tiempo real, entendiéndose que la transferencia de datos de vídeo es un proceso que consume gran parte del ancho de banda en cada una de las regionales.
+
+**Problema #2 – Pérdida de comunicación**
+
+Un segundo problema común  son las pérdidas de comunicación con las regionales, lo que ocasiona  directamente que los equipos pierdan comunicación y dejen de realizar su trabajo de grabación de forma abrupta e inmediata.
+
+En numerosas ocasiones, esto ha imposibilitado la grabación de importantes eventos en las sedes regionales del IFARHU, como robos, pérdidas de equipo o documentación de hechos.
+
+Dados estos problemas la DTI ideó un nuevo proyecto para la descentralización total del sistema de vídeo vigilancia a nivel nacional.
+
+Se solicitó la descentralización completa de los sistemas de vídeo vigilancia a nivel nacional, mediante la instalación de equipos de grabación por red (NVR – Network Video Recorder) en cada una de las Oficinas Regionales del IFARHU y según la descripción técnica provista para cada uno de los puntos señalados de igual forma.
+
+Dicho trabajo incluyó:
+
+- Proveer los equipos tecnológicos o informáticos necesarios para la descentralización total de cada una de las regionales listadas, incluyendo planta central.
+- Proveer los equipos tecnológicos necesarios para el monitoreo mediante pantallas digitales, donde sea necesario.
+- Instalación de dichos equipos en sitio.
+- Configuración de dichos equipos y de todas las cámaras locales para la grabación y monitoreo completo de forma local.
+- Configuración de las reglas de red necesarias para la operatividad de dicho equipo (el dispositivo de grabación) de forma local y el monitoreo externo, cuando sea necesario.
+- Capacitación total de forma operativa técnica al personal de la Dirección de Tecnología Informática.
+- Capacitación total de forma operativa final al personal del Departamento de Seguridad de la Institución.
+- Garantías totales en piezas y mano de obra, por el periodo que se establezca.
+- Mantenimiento preventivo y correctivo, en el periodo que se establezca.
+
+De igual se instalaron los siguientes equipos a nivel nacional, intentando reutilizar (en la mayoría de los casos) la inversión total realizada por el IFARHU en administraciones anteriores.
+
+-------------------------------------------------------------------------------------------------
+Regional                                  Descripcinón
+------------------------------------     --------------------------------------------------------
+Planta Central del IFARHU                2 Grabador NVR de 64 canales y 32TB de almacenamiento. 2 Monitor especial para vídeo vigilancia de 40" o superior, LED, operable a 1080p con salidas DVI, HDMI, VGA. 2 Brazo para pared compatible para el monitor. 2 Cable HDMI para el monitor de 15 pies.
+
+Regional de Chiriquí - Bugaba            1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Chiriquí – Barú              1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de San Félix – Comarca Ngöbe    1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Bocas del Toro – Changuinola 1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Bocas del Toro – C. Grande   1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Veraguas – Soná              1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Panamá Oeste – Coronado      1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Coclé – Aguadulce            1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Colón – Colón                1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Darién – La Palma            1 Grabador NVR de 4 canales y 2TB de almacenamiento.
+
+Regional de Veraguas – Santiago          1 Grabador NVR de 8 canales y 3TB de almacenamiento.
+
+Regional de Los Santos – Las Tablas      1 Grabador NVR de 8 canales y 3TB de almacenamiento.
+
+Regional de Herrera – Chitré             1 Grabador NVR de 8 canales y 3TB de almacenamiento.
+
+Regional de Coclé – Penonomé             1 Grabador NVR de 8 canales y 3TB de almacenamiento.
+
+Regional de Panamá Oeste - Arraiján      1 Grabador NVR de 8 canales y 3TB de almacenamiento.
+
+Regional de Panamá Oeste – La Chorrera   1 Grabador NVR de 8 canales y 3TB de almacenamiento.
+
+Regional de Panamá – Panamá Norte        1 Grabador NVR de 16 canales y 4TB de almacenamiento.
+
+Regional de Panamá – San Miguelito       1 Grabador NVR de 16 canales y 4TB de almacenamiento.
+
+Regional de Chiriquí – David             1 Grabador NVR de 16 canales y 4TB de almacenamiento.
+
+Regional de Panamá – Panamá Este         1 Grabador NVR de 16 canales y 4TB de almacenamiento.
+
+Regional de Panamá                       2 Monitores de vídeo vigilancia, especial. 2 Montajes para la pared de ambos monitores. 2 Cables HDMI para la conexión de ambos computadores.
+
+Planta Central	                         1 Software de Gestión y Administración de Vídeos, licenciamiento a perpetuidad.
+
+-------------------------------------------------------------------------------------------------
+
+El trabajo se realizó mediante Licitación Pública 2016-1-20-0-99-LP-005491 y los resultados, luego de 3 años de haber realizado los mismos, han sido excelentes y se han corregido ambos problemas encontrados inicialmente por nuestra administración
+
+De igual forma, se eliminó el licenciamiento anual que se tenía contemplado para el sistema anterior, el cuál generaba grandes gastos en licenciamiento a la Institución, siendo que la solución actual no requiere una renovación de los licenciamientos para su operación anual (única inversión al inicio).
 
 ### Políticas de Seguridad Informática del IFARHU
 
@@ -245,10 +391,6 @@ Dichas Políticas fueron finalmente aprobadas por **Resolución No. 320-2017-439
 
 Se conoce que el IFARHU es una de las únicas instituciones gubernamentales de Panamá que desarrolló de manera formal una serie de políticas institucionales.
 
-### Restructuración de los cortafuegos
-
-<!-- TODO -->
-
 ### Unidad de Seguridad Informática
 
 Junto con la creación de las **"Políticas de Seguridad para las Tecnologías de la Información y Comunicaciones (TICS)"** se designó (Asignación Interna) la creación de la Unidad de Seguridad Informática, personal con capacidades y competencias necesarias para verlar por el entendimiento, comunicación, cumplimineto y mantenimiento de todos los equipos y plataformas relacionadas con mantener la operatividad de la Institución en términos de Seguridad Informática.
@@ -257,7 +399,55 @@ Se hizo la solicitud a la Dirección de Planificación, de la creación de la Un
 
 ### Sistemas Anti-Spam
 
-Se instaló un nuevo sistema anti-spam (Barracuda) para proteger a los equipos del IFARHU en contra de los ataques provenientes de correos mal intencionados y correo basura.
+El crecimiento de la institución hizo que la granja de servidores virtuales presente ciertas limitaciones de espacio por el alto volumen de información que se tiene y los correos basura son una de las causas de que se llene nuestro sistema de almacenamiento de correos.
+
+Se hizo necesario filtrar los correos electrónico, evitando el alojamiento de espacio no deseado en la granja de servidores, implementándole un nuevo Anti-Spam aumentando nuestra capacidad de seguridad y reduciendo posbibles ataques de seguridad proveniente de fuentes no autorizadas de correo electrónico.
+
+Por lo tanto, nuestra institución adquirió un nuevo equipo para prevenir el correo basura. Dicho equipo se implementó en el Centro de Datos central para proteger la capacidad de almacenamiento en disco. Con esta adquisición se minimiza el riesgo de fallas por falta de espacio y se mejora la seguridad de nuestros sistemas, al filtrar correo basura o malicioso, que hoy en día ingresa a nuestros sistemas sin ninguna verificación.
+
+Requerimos este equipo instalado de tipo _appliance_ (hardware) y el sistema completo debía:
+
+- Suministrar el equipamiento necesario para proporcionar el servicio de filtrado de correo y cifrado de correo electrónico a nivel de Gateway, para al menos 5,000 usuarios.
+- Ser ofrecida en Hardware Appliance de propósito único para el manejo de correo electrónico.
+- Tener disco duro con un mínimo de 60 GB de espacio para el almacenamiento de correos, cuarentenas, y otros.
+- Ofrecer protección del servicio de correo en múltiples capas, utilizando técnicas de filtrado de conexiones y escaneo profundo en los mensajes.
+- Permitir rechazar el correo no deseado (spam), mediante la previa verificación y comprobación de las direcciones IP de mensajería entrante, en bases de datos especializadas con registros de  sitios considerados como altamente generadores de "spam".
+
+A nivel de protección, la solución cuenta con algunas características a mencionar:
+
+- Posee mínimo 2 capas de protección antivirus.
+- Realiza caché de firmas de antivirus localmente y automáticamente actualizable.
+- Ofrece protección en tiempo real que bloqueará nuevos spam y los virus en tiempo real, sin tener que esperar nuevas definiciones estén descargadas en el appliance.
+- Es capaz de proteger correo electrónico entrante (desde Internet) y correo saliente (hacia Internet).
+- Tiene la capacidad de conectarse en tiempo real a una base de datos centralizada en el fabricante para descargar actualizaciones.
+- Tiene incorporada protección contra ataques de negación de servicio (DoS).
+- Realiza verificaciones de DNS en reversa para proveer protección tipo Anti-Spoofing.
+- Establece límites en la tasa de correos enviados y recibidos.
+- Tiene la capacidad de soportar múltiples dominios de correo electrónico.
+- Establece políticas de correo electrónico por dominio, para correo entrante o correo saliente.
+- Tiene la capacidad de establecer perfiles (políticas) granulares  de detección de SPAM.
+- Realiza el enrutamiento de correo basado en LDAP.
+- Realiza cuarentena de correo entrante y saliente.
+- Soporta colas de correo para mensajes fallidos, retardados y no entregables.
+- Realiza autenticación para SMTP a través de LDAP, RADIUS, POP3 o IMAP.
+- Filtra archivos anexos (attachments) y contenido de mensaje de correo.
+- Posee la capacidad de bloquear usando listas RBL de SPAM.
+- Filtra por palabra prohibida.
+- Entre otras capacidades del sistema.
+
+### Vulnerability Manager
+
+Dentro de todo nuestro plan de Seguridad Informática para el IFARHU, se han adquirido distintas herramientas y tecnologías, para proteger distintos sistemas y mitigar situaciones que puedan atacar la seguridad informática de la organización. Uno de los pilares más importantes para la protección hoy en día es la protección a nivel de usuario final, siendo éste el eslabón más débil dentr de la cadena de seguridad dentro de una organización, es por ello que hemos decidido adquirir una solución precisamente enfocada en atender tres pilares de esta parte de seguridad:
+
+1. Detectar ataques dirigidos a usuarios y dispositivos finales, como malware, exploits y ransomware.
+1. Identificar estos ataques, mediante una solución que pueda crecer y aprender por si sola, utilizando incluso mecanismos como inteligencia artificial.
+1. Responder a dichos ataques para mitigar los efectos que puedan causarse con ellos.
+
+Mediante el "PROY-26-2018 — Adquisición, implementación y adiestramiento para un sistema de seguridad informática para la  detección y prevención de ataques a dispositivos finales (Endpoint Detection and Response)" se desarrolló un proyecto para contrarrestar con estas situaciones y poder brindar una solución más amplia y enfocada a proteger sistemáticamente y completamente a la organización.
+
+Se adquirió de una solución completa de protección al usuario y dispositivo final (_endpoint_), incluyendo la instalación y entrenamiento de la solución al personal de la DTI.
+
+Dicha solución fue ser desplegada para suplir a una necesidad de aproximadamente 150 clientes activos del IFARHU, entre los cuales podemos mencionar servidores (de tipo Linux y Windows) como clientes (de tipo Windows y macOS).
 
 ## Trabajo Futuro
 
@@ -265,10 +455,12 @@ Se instaló un nuevo sistema anti-spam (Barracuda) para proteger a los equipos d
 
 - Considerar el movimiento del Centro de Datos a una Oficina fuera de la Planta Central del IFARHU o la creación de un Centro de Datos paralelo.
 - Implementar la "Guía para la implementación de un Plan de Recuperación ante Desastres (DRP) para el IFARHU" \footnote{'Guía para implementación de un Plan de Recuperación ante Desastres (DRP) para el IFARHU, Panamá' - Lic. Roberto Chan - Universidad de Panamá - Visitado el 2/5/2019 http://www.repositoriodev.up.ac.pa/358/}, trabajo de investigación realizado por el Lic. Roberto Chan, ex-director de la DTI en la administración 2009-2014.
-- Ejecutar el Grupo 2 de la instalación de los UPS en las Oficinas Regionales. Dicha instalación no se pudo realizar por carencia de presupuesto en los años anteriores.
+- Ejecutar el Grupo 2 y Grupo 3 de la instalación de los UPS en las Oficinas Regionales. La instalación del Grupo 2 no se pudo realizar por carencia de presupuesto en los años anteriores.
 - Evaluar la modernización y migración de la granja virutal de servidores Dell a una nueva y moderna tecnología.
 - Ampliar los contratos de alquiler de impresoras, promoviendo las mismas en distintas sedes regionales de Panamá. Este trabajo se estipuló realizarlo en el año 2019, mas no fue desarrollado por implementación del sistema ISTMO durante los meses de enero a mayo de 2019.
 - Realizar un descarte total de las impresoras que, por malgaste en las piezas y su vigencia en el mercado, no pueden ser reparadas.
+- Ampliar la granja de servidores HP de forma escalonada, tal como se ha ido realizando, para soportar el crecimiento actual del IFARHU.
+- Evaluar la migración de ciertos servicios desde la red interna del IFARHU a la nube privada del IFARHU, basada en Microsoft Azure.
 
 **Redes y Telecomunicaciones**
 
@@ -278,4 +470,7 @@ Se instaló un nuevo sistema anti-spam (Barracuda) para proteger a los equipos d
 **Seguridad Informática**
 
 - Promover la creación de la Unidad de Seguridad Informática y la creación del Oficial de Seguridad Informática, con sus respectivas designaciones y funciones bien establecidas.
-- Capacitar al personal en dichas competencias.
+- Reforzar la capacitación del personal en competencias de seguridad.
+- Promover el rol de Agente de Seguridad Informática.
+- Asignar funciones no solamente reactivas por parte de esta unidad.
+- Desarrollar mejoras en las Políticas de Seguridad, tomando en consideración que las mismas deben ser lo suficientemente flexibles para no amarrarnos tecnológicamente.
