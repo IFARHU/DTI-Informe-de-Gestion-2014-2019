@@ -128,11 +128,11 @@ PROY-5-2019 - Servicio de          Cable Onda y CWP        Diciembre 2019
 Internet y Enlaces de
 Comunicaciones
 
-PROY-6-2019 - Licencia Anual       Soluciones Seguras      Diciembre 2019
+PROY-6-2019 - Licencia Anual       Soluciones Seguras      Marzo 2020
 para el Sistema de Cortafuegos
 del IFARHU
 
-PROY-7-2019 - Soporte y            Soluciones Seguras      Diciembre 2019
+PROY-7-2019 - Soporte y            Soluciones Seguras      Marzo 2020
 mantenimiento para el sistema
 de Cortafuegos del IFARHU
 y protección contra SPAM
@@ -159,7 +159,7 @@ PROY-13-2019 - Licencias de        Data Security Solutions Diciembre 2019
 Auditor de Active Directory
 (JiJi)
 
-PROY-14-2019 - Licencias para      Data Security Solutions Diciembre 2019
+PROY-14-2019 - Licencias para      Data Security Solutions Enero 2020
 sistema de monitoreo (PRTG)
 
 PROY-15-2019 - Licencias para      WICOSY                  Mayo 2020
@@ -199,6 +199,22 @@ Microsoft
 > **Nota:** Todos los mantenimientos que requirieron ser renovados para el año 2019 fueron renovados con vigencia total de 2019, procurando la operatividad institucional a nivel tecnológico-informático.
 
 ## Procesos y Flujos
+
+### Plantilla para Proyectos de Tecnología
+
+La DTI creó una plantilla única para todos los proyectos de tecnología del IFARHU y solicitó que todos los proyectos del IFARHU a nivel de la DTI fueran compartidos a través del sistema ownCloud, descrito en el Eje 3, lo que nos permite tener visibilidad, transparencia y permite la colaboración entre todos los involucrados en crear dicho proceso.
+
+La plantilla de proyectos de la DTI llamada "Acta de Constitución de Proyectos" es una versión pequeña que intenta describir la misión y la visión del proyecto mediante el desarrollo de los siguientes puntos:
+
+- Definición del Proyecto: Resumen del proyecto y el alcance del mismo.
+- Justificación del Proyecto: Define los motivos por los cuales este proyecto es necesario en la Institución y como la misma se beneficiaria por los resultados entregados luego del desarrollo del proyecto.
+- Descripción de la necesidad: Explica los requerimientos técnicos completos y el alcance técnico de los trabajos dentro del proyecto. Involucra también la misión y la visión del proyecto.
+- Especificaciones técnicas: Lista las especificaciones técnicas que debe cumplir la necesidad como mínimo.
+- Requerimientos del oferente: Lista de requerimientos que son de estricto cumplimiento por parte de los oferentes interesados en participar en el proyecto.
+
+Este documento está homologado con la Ley de Contrataciones Públicas, por lo que es utilizado directamente para las licitaciones públicas del IFARHU.
+
+También ha funcionado como un documento de entrada para el personal de Control Fiscal de la Contraloría General de la República y la Dirección de Finanzas, siendo que describe de forma justificada la inversión requerida por la Institución y los beneficios de desarrollar el proyecto.
 
 ### Recibo de solicitudes e incidentes
 

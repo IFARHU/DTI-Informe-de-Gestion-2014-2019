@@ -134,6 +134,66 @@ El programa de Clave Social ha sido muy criticado porque los pagos requieren ser
 
 La DTI, durante el año 2019, ha podido iniciar conversaciones con el BNP y la empresa BioSoft, creadores del programa MEREB para los colegios particulares de Panamá, lo que nos permitiría llegar a estos centros educativos en el programa de Clave Social - Beca Universal.
 
+## Kioskos de Atención
+
+A través del Proyecto "PROY-22-2017 / Implementación de Kioskos de auto-atención en la Sede Central del IFARHU" la DTI implementó un sistema de auto-atención para los beneficiarios del IFARHU que realizan trámites en Sede Central del IFARHU, por instrucciones y directrices de parte del Despacho Superior del IFARHU, quién encomendó inicialmente este proyecto a la Dirección de Planificación, al ser un proyecto orientado al mejoramiento de los procesos, más que una implementación tecnológica. La DTI adquirió el compromiso de realizar el proyecto en el año 2017, mediante un análisis de procesos y de filas, para una posterior implementación tecnológica.
+
+![Usuarios utilizando el sistema de filas. \label{chap6_fig1}](source/figures/chap6_fig1.png)
+
+Este proyecto está dentro del Eje 4 (Innovación) debido a que es el primer proyecto del IFARHU que fue diseñado y desarrollado por la DTI para resolver situaciones cotidianas mediante la incorporación de ingeniería y tecnología, algo que crea un precedente en las operaciones de nuestra Dirección y del IFARHU.
+
+![Pantalla del sistema de filas a través de donde se llaman los números. \label{chap6_fig2}](source/figures/chap6_fig2.png)
+
+Los trabajos de este proyecto incluyeron:
+
+- El estudio de los distintos ciclos de atención, para cada uno de los departamentos.
+- La definición de mejores ciclos de atención, para cada uno de los departamentos.
+- Incorporación de kioskos de auto-atención, que permitan al usuario obtener un número para recibir su atención.
+- Incorporación de métodos de información (pantallas o similares) que le permitan a la persona saber cuando puede ser atendido y por quién será atendido.
+
+El IFARHU recibe gran cantidad de visitas durante todo el año, mayormente debido a su gran población de beneficiarios, la cual asciende a poco más de 800,000 estudiantes a nivel nacional.
+
+Dichos estudiantes requieren realizar constantemente trámites en el IFARHU de distintos tipos, por ejemplo:
+
+- Trámites de Becas.
+- Seguimiento de las Becas.
+- Pago de Becas.
+
+Para cada uno de estas atenciones físicas, el beneficiario requería formar filas hasta ser atendidos y procesos tradicionales para recibir dicha atención, como lo son números impresos en pequeños cartones y llamadas, por parte del personal de seguridad, en los pasillos con el número de la persona que será atendida.
+
+![Kioskos instalados en el Departamento de Beca Universal. \label{chap6_fig4}](source/figures/chap6_fig4.png)
+
+Igualmente, no se contaban con estadísticas reales de las atenciones que realiza el IFARHU, por lo que es difícil saber los resultados a nuestra atención, que días se recibía más personal, el tiempo que demoraban las visitas, el personal que atendía más o el que atendía menos, entre otras estadísticas.
+
+Se determinó que estos procesos podían ser mejorados mediante la incorporación de tecnología en cada uno de los aspectos, por ejemplo:
+
+- Que el usuario solicite una atención, mediante un kiosko de auto-servicio.
+- Una vez solicitada la atención, se le dará un número de ticket, que representará el número de espacio en fila.
+- Que una vez registrada la persona en fila, la persona sea atendida cuando le corresponda.
+- Que dichas filas puedan ser monitoreada mediante una plataforma administrable y accesible desde un dispositivo (computadora, por ejemplo) y una interfaz web.
+- Que el personal de atención pueda llamar a la siguiente persona en fila para su atención.
+- Que el beneficiario pueda saber, mediante una pantalla o algún otro irradiador de información, cuando será atendido. Todo esto desde una sala de estar o un espacio destinado para espera.
+- Que las estadísticas de atención puedan ser generadas y descargadas para su interpretación.
+- Que, mediante la plataforma web, puedan realizarse algunas acciones administrativas de atención (como solicitar una atención express, entre otros).
+
+Mediante la realización de este proyecto hemos podido:
+
+- Evaluar el ciclo de atención de los distintos departamentos de becas del IFARHU.
+- Evaluar mejoras que puedan ser implementadas en los distintos ciclos de atención de becas del IFARHU.
+- Mejorar los ciclos de atención de IFARHU.
+- Mejorar la atención, y la percepción de dicha atención, que reciben nuestos cientos de miles de beneficiarios de nuestra Institución.
+
+Tal como se mencionó inicialmente, el proyecto no era un proyecto de incorporación tecnológica únicamente.
+
+- Análisis y mejora del ciclo de atención
+- Módulo de Cliente (kiosko)
+- Módulo de Espera
+- Módulo de Atención
+- Módulo de Administración
+- Entrenamiento
+
+Durante los primeros meses del año 2019 la DTI ha podido realizar entrevistas a los usuarios 
+
 ## Interoperabilidad
 
 La interoperabilidad es la capacidad que tiene un producto o un sistema, cuyas interfaces son totalmente conocidas, para funcionar con otros productos o sistemas existentes o futuros y eso sin restricción de acceso o de implementación\footnote{Traducción por Pascual Chevrel}.
@@ -182,3 +242,4 @@ Tal como describimos en el Eje 3, la primera interoperabilidad con otra instituc
 - Sugerir un cambio de Dirección para la DTI, de Dirección de Tecnología Informática a Dirección de Innovación y Tecnología.
 - A nivel de Clave Social, sugerimos que el programa deba incrementar su aplicación a nivel nacional y sugerimos continuar las conversaciones con BioSoft para que el programa pueda llegar a los centros educativos particulares de Panamá.
 - Datos Abiertos: Mediante Resolución No. 320-2019-219 se designa a la Dirección de Planificación como el Oficial de Información del IFARHU para coordinar la implementación de Datos Abiertos del IFARHU. Los Datos Abiertos permiten a los ciudadanos generar información y conocimiento a partir de los datos entregados por la Institución. La DTI es parte del comité de Datos Abiertos de la Institución, por lo que se ha encontrado a la espera, por parte de la Dirección de Planificación, de retomar los trabajos orientados a generar un esquema de datos para ser compartidos a través del Portal de Datos Abiertos de Panamá\footnote{\url{https://www.datosabiertos.gob.pa/}}. Queda pendiente a la próxima administración generar los primeros catálogos de datos, trabajo que podría soportarse en el proyecto de Conecta IFARHU y su componente de análisis de datos ya desarrollado.
+- A nivel de los kioskos, la implementación de Caja no resultó como teníamos previsto. Todo se debe principalmente al espacio físico en donde se encuentra caja y al proceso relacionado con el pago. Como el espacio físico es reducido, cuando las personas son tantas deben aglomerarse afuera y las pantallas no se encuentran disponibles para su vista. Recomendamos evaluar mover la sección de caja de ubicación, quizás a otro piso, o mover los kioskos de atención para ser utilizados en los procesos de Crédito Educativo (Piso 8). Igualmente, replicar la implementación de los kioskos en regionales como Panamá Norte, Panamá Oeste - La Chorrera, Panamá Oeste - Arraiján, Chiriquí - David y Veraguas - Santiago, para iniciar.
