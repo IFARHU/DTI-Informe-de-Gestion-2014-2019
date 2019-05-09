@@ -4,13 +4,14 @@
 
 El **Eje Estratégico y Capital Humano** se enfoca los esfuerzos desde las siguientes perspectivas:
 
-- Crear una identidad propia como DTI
-- Reforzar la relación entre los colaboradores de la DTI con su Dirección y crear una pertenencia en ambos sentidos
-- Consolidar la DTI como parte del apoyo fundamental para la operatividad de la Institución, siendo un aliado estratégico interno y externo
+- Crear una identidad propia como DTI y pertenencia de los colaboradores de la DTI con su Dirección.
+- Reforzar la relación entre los colaboradores de la DTI con su Dirección y crear una pertenencia en ambos sentidos.
+- Consolidar la DTI como parte del apoyo fundamental para la operatividad de la Institución, siendo un aliado estratégico interno y externo.
+- Mejorar de forma digna tanto los espacios de trabajo como las condiciones para realizarlos.
 
 ## Plan y Mapa Estratético del IFARHU
 
-El Plan Estratégico Institucional 2014-2019 del IFARHU se realiza para afianzar la Institución, fomentando la vinculación de los distintos niveles, los de toma de decisiones con los demás grupos de trabajo, buscando el compromiso de todos, en el logro de los objetivos y metas para mantener el posicionamiento como institución de calidad y eficiencia \footnote{Plan Estratégico del IFARHU 2014-2019}.
+El Plan Estratégico Institucional 2014-2019 del IFARHU se realiza para reafirmar la Institución, fomentando la vinculación de los distintos niveles, los de toma de decisiones con los demás grupos de trabajo, buscando el compromiso de todos, en el logro de los objetivos y metas para mantener el posicionamiento como institución de calidad y eficiencia \footnote{Plan Estratégico del IFARHU 2014-2019}.
 
 Mediante la elaboración de este Plan Estratégico se generó el Mapa Estratégico del IFARHU 2014-2019 visto en la Figura \ref{ref_mapa_estrategico}, el cuál estableció los siguientes objetivos\footnote{Mapa Estratégico del IFARHU 2014-2019}:
 

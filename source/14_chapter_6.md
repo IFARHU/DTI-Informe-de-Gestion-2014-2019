@@ -91,6 +91,8 @@ Es por ello que implementamos un EDW\footnote{Enterprise Datawarehouse} basado e
 
 ### Consumiendo información y generando conocimiento
 
+![Vista de un Dashboard de Tableau para el análisis de un tipo de beca en un rango de tiempo (periodo anual). \label{chap6_fig5}](source/figures/chap6_fig5.png)
+
 Para el despliegue de información a través de tableros de mando (_Dashboards_) y la posible generación de conocimiento, se implementó el uso de Tableau\footnote{https://www.tableau.com}, un sistema orientado a la inteligencia de negocios.
 
 Gracias a Tableau podemos generar:
