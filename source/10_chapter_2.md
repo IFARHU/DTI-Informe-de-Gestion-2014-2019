@@ -33,7 +33,7 @@ La Directrices de la DTI emanan del Despacho Superior y esta, a su vez, se compo
 
 ![Organigrama de la DTI del IFARHU a 2019. \label{ref_organigrama}](source/figures/chap2_fig1.png){ width=100% }
 
-En la Figura \ref{ref_organigrama} se muestra el Organigrama Operativo de la DTI a la fecha, el cuál difiera del mostrado a nivel del Manual Operativo según el documento con mismo nombre.
+En la Figura \ref{ref_organigrama} se muestra el Organigrama Operativo de la DTI a la fecha. Esta difiere del mostrado a nivel del Manual de Organización y Funciones del IFARHU en su última versión. El Organigrama Operativo del IFARHU muestra como se constituye la DTI a nivel real / operativo.
 
 ## El papel de la DTI durante la Administración 2014-2019
 

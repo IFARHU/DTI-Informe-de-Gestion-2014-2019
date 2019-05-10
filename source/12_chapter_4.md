@@ -276,15 +276,51 @@ De igual forma, cada departamento de la DTI cuenta con un equipo, para realizar 
 
 La conectividad con la red del IFARHU, a su vez, se realiza mediante la incorporación de mecanismos de seguridad y una red segura (VPN).
 
-### Creación de Central Telefónica con licenciamiento libre y abierto
+### Telefonía VoIP
 
-<!-- TODO -->
+#### Licencias
+
+- En la actualidad contamos con 421 licencias AVAYA, la cual 125 son de la tecnología VoIP   Y 296 de la tecnología IP.
+- En el año 2014 se contaba con 412 licencias a nivel Nacional 
+- El 12 de septiembre del 2016 se adquirieron 12 licencias, cada licencia tiene el precio unitario de B/. 190.00, lo que da un costo total de B/. 2,653.60.
+
+#### Servidores
+
+- 5 media Gateway, marca, AVAYA, modelo G430, ubicados en la regional de Chiriquí, Veraguas, Coclé, Herrera y los Santos. 
+- 10 media Gateway, Marca AVAYA, modelo G250, ubicados en la regional de Bocas del Toro, Bugaba, Aguadulce, Coronado, Colon, Panamá Oeste, Panamá Este, San miguelito, Panamá Norte y Arraijan.
+- Servidor Asterisk Instalación y Configuración el 22 de septiembre de 2016.
+- Implementación y Configuración de Operadora Automática el 4 de mayo de 2016 costo 428.00.
+- Regeneración de los Certificados de seguridad en el server Comunicatión manager R6. 13 de Julio de 2017, costo 2,518.78.
+- Implementación, configuración, Instalación de Servidor Virtualizado Avaya Comunication Manager la Versión R 7.0. ,2018.
+
+#### Teléfonos
+
+- Adquisición de 6 Protector de Líneas Análogas, el 4 de Julio de 2016, Costo B/. 584.22.
+- Desde el 2016 contamos con 40 líneas en el Servidor de Asterisk, actualmente activas en la sede principal y en agencia Regional.
+- Adquisición de 41 Teléfonos Marca Gramstream el 23 de mayo de 2017, Costo: B/. 754.80.
+- Adquisición de 52 Teléfonos Marca Avaya 1603, el 22 de febrero de 2018, Costo B/. 7,156.41.
+- Adquisición de 6 teléfonos para las agencias regionales Marca Avaya 1616, el 6 de abril de 2016. Costo B/. 1,165.10.
+- Adquisición de 2 Teléfono Marca Avaya 1616, el 9 de marzo de 2016, costo B/. 212.51.
+- Adquisición de 5 Gramstream, el 22 de marzo de 2017.
+
+El inventario de teléfonos actual del IFARHU es el siguiente:
+
+- 41 Teléfonos, Marca Gramstream 
+- 152 Teléfonos, Marca Avaya, modelo1616,1603,1608,4621. 
+- 228 Teléfonos, Marca Yealink, modelo SIP –T22P, T20P.
+
+**Total, de Nuevas Líneas Instaladas 2014-2019:**
+
+- En el 2016 se realizó un incremento de 156 líneas nuevas a nivel nacional.
+- En el 2017 al 2018 se incrementó 40 líneas nuevas a nivel nacional.
+
+#### Servidor Asterisk (abierto, libre y gratuito)
 
 Mediante un desarrollo interno con personal de la DTI y consultores externos, se pudo realizar la instalación de un servidor PBX que utiliza tecnología libre y abierta, como Asterisk.
 
-La intención de realizar este trabajo es debido a que cada licencia AVAYA (nuestra Central Telefónica principal) tiene un costo unitario de **XX**, mientras que las líneas
+La intención de realizar este trabajo es debido a que cada licencia AVAYA (nuestra Central Telefónica principal) tiene un costo unitario de **B/. 190.00**, mientras que las líneas Asterisk no requieren un costo en licenciamiento.
 
-Hasta el día de hoy contamos con **X** líneas instaladas que utilizan esta tecnología y la calidad del servicio ha sido comparable con las otras dos tecnologías con las que contamos en la actualidad y sin costo alguno más que la compra del equipo telefónico.
+Hasta el día de hoy contamos con **40** líneas instaladas que utilizan esta tecnología y la calidad del servicio ha sido comparable con las otras dos tecnologías con las que contamos en la actualidad y sin costo alguno más que la compra del equipo telefónico. Eso produjo un ahorro de B/. 7,600 a la Institución y le permitirá crecer abaratando costos operativos a futuro.
 
 ## Seguridad Informática
 
