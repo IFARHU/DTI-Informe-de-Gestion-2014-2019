@@ -29,7 +29,6 @@ pdf:
 	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.pdf" \
 	-H "$(STYLEDIR)/preamble.tex" \
 	--template="$(STYLEDIR)/template.tex" \
-	--bibliography="$(BIBFILE)" 2>pandoc.log \
 	--csl="$(STYLEDIR)/ref_format.csl" \
 	--highlight-style pygments \
 	-V fontsize=12pt \
@@ -40,32 +39,11 @@ pdf:
 	--pdf-engine=xelatex \
 	--verbose
 
-tex:
-	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.tex" \
-	-H "$(STYLEDIR)/preamble.tex" \
-	--bibliography="$(BIBFILE)" \
-	-V fontsize=12pt \
-	-V papersize=letter \
-	-V documentclass=report \
-	-V lang=spanish \
-	-N \
-	--csl="$(STYLEDIR)/ref_format.csl" \
-	--latex-engine=xelatex
-
-docx:
-	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.docx" \
-	--bibliography="$(BIBFILE)" \
-	--csl="$(STYLEDIR)/ref_format.csl" \
-	--toc
-
 html:
 	pandoc "$(INPUTDIR)"/*.md \
-	-o "$(OUTPUTDIR)/DTI_Informe_Gestion_2014-2019.html" \
+	-o "$(OUTPUTDIR)/index.html" \
 	--standalone \
 	--template="$(STYLEDIR)/template.html" \
-	--bibliography="$(BIBFILE)" \
 	--csl="$(STYLEDIR)/ref_format.csl" \
 	--include-in-header="$(STYLEDIR)/style.css" \
 	--toc \

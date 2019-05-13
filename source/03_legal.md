@@ -1,11 +1,9 @@
-# Agradecimientos {.unnumbered}
+# Licenciamiento {.unnumbered}
 
-El logro de este trabajo y los objetivos alcanzados por la Dirección de Tecnología Informática del IFARHU durante los años 2014 a 2019 fueron fruto del trabajo arduo ofrecido por todos los colaboradores de los distintos cuatro departamentos que componenen nuestra Dirección.
+Tanto el presente documento como todos los esfuerzos listados en el mismo ha sido desarrollado por financiamiento público y el dinero de todos los panameños.
 
-El agradecimiento principal va a todos los colaboradores de esta Dirección, que ofrecieron su esfuerzo, trabajo arduo, sacrificio, conocimientos, competencias y compromiso de forma profesional, velando por el cumplimiento de los objetivos y metas planteadas, las cuales se retribuyen en oportunidades de estudios a través de becas y créditos del IFARHU.
+Este documento está bajo una Licencia Creative Commons "Atribución-NoComercial-SinDerivadas 4.0 Internacional."\footnote{http://creativecommons.org/licenses/by-nc-nd/4.0/}.
 
-Cualquiera de los logros obtenidos durante estos cinco años no hubiesen sido posibles sin el equipo capacitado, comprometido y de tan alto nivel como el que fue parte de esta Dirección.
-
-Este agradecimiento debe multiplicarse a las personas que guiaron este proceso a nivel de Despacho Superior durante esta administración. Agradecemos su confianza, apoyo y guía durante el proceso de cambio del IFARHU.
+Tanto el código fuente como el informe serán liberados de forma libre y abierta a través de los canales de GitHub del IFARHU\footnote{https://github.com/IFARHU}.
 
 \newpage
