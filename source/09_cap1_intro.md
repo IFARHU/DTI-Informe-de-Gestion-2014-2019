@@ -2,13 +2,13 @@
 
 ## Sobre el documento
 
-El siguiente trabajo permite dar un pequeño y conciso resumen sobre las metas establecidas y los objetivos logrados a través del trabajo realizado por la Dirección de Tecnología (DTI) del Instituto para la Formación y Aprovechamiento de Recursos Humanos (IFARHU) durante la gestión que corresponde a los años 2014-2019.
+El siguiente trabajo permite dar un conciso resumen sobre las metas establecidas y los objetivos alcanzados a través del trabajo realizado por la Dirección de Tecnología (DTI) del Instituto para la Formación y Aprovechamiento de Recursos Humanos (IFARHU) durante la gestión que corresponde a los años 2014-2019.
 
-Este documento no se debe ver como un listado de proyectos, planes y programas ejecutados por la DTI durante los años 2014 a 2019, si no como un diario de logros e hitos planteados de manera estratégica por el IFARHU y que fueron enfocados en esfuerzos individuales, definidos para soportar tanto los objetivos estratégicos del Mapa Estratégico del IFARHU, como por los lineamientos ofrecidos por el Despacho Superior y las necesidades de nuestros colaboradores y beneficiarios.
+Este documento no se debe ver como un listado de programas, planes y proyectos ejecutados por la DTI durante los años 2014 a 2019, mas como un diario de logros e hitos planteados de manera estratégica por el IFARHU y que fueron enfocados en esfuerzos individuales, definidos para soportar tanto los objetivos estratégicos del Mapa Estratégico del IFARHU, como por los lineamientos ofrecidos por el Despacho Superior y las necesidades de nuestros colaboradores y beneficiarios.
 
 ## Resumen de los capítulos
 
-En el **Capítulo 2** se abordará sobre de la historia de la DTI, su misión, visión y las funciones a la que está suscrita dicha Dirección.
+En el **Capítulo 2** se abordará sobre de la historia de la DTI, su misión, visión y las funciones a la que está suscrita nuestra Dirección.
 
 A partir del **Capítulo 3** se desarrollarán las mmetas establecidas y los logros desarrollados. Dicho análisis se realizará dividido a través de cinco ejes temáticos, listados a continuación:
 
@@ -18,4 +18,4 @@ A partir del **Capítulo 3** se desarrollarán las mmetas establecidas y los log
 - **Capítulo 6:** Eje 4: Liderazgo e Innovación
 - **Capítulo 7:** Eje 5: Operatividad y Mantenimiento
 
-Finalmente, se creará una pequeña conclusión y se aportarán apéndices o datos extras que consideremos sean útiles para comprender el presente informe.
+Finalmente, se creará una pequeña conclusión y se aportarán apéndices o datos extras que consideremos sean útiles para ampliar el presente informe.

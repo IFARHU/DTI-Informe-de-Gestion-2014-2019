@@ -240,6 +240,8 @@ El sello contiene un pequeño formulario, llenado a mano, con la siguiente infor
 
 Al recibir dicha solicitud, la misma pasa a la SSU para ser ingresada en el sistema y se le indica el número de solicitud asignada. Esto es útil para cuando alguien quiera verificar el estado de una solicitud recibida por memorando, a través del memorando físico podemos detectar cualquier comentario relacionado con la solicitud.
 
+Estas medidas fueron notificadas a todo el personal, inicialmente a través del Memorando DTI 490-2014-520 y rectificadas en Memorando DTI 490-2015-230.
+
 ### Solicitud de credenciales y permisos
 
 Con anterioridad, las credenciales para distintos aplicativos, correo electrónico o incluso las tarjetas para el acceso físico a ciertas áreas, eran recibidos de manera informal.
@@ -249,6 +251,24 @@ Detectamos casos en donde se solicitaban credenciales para funcionarios en trám
 Este formulario debe ser aprobado por la DTI y la Oficina Institucional de Recursos Humanos, donde se debe ingresar el número de posición del funcionario.
 
 La DTI, según las Políticas de Seguridad Informática, tiene la última potestad de dar o no los permisos solicitados para un personal en particular.
+
+### Informe de visitas de regionales
+
+Se creó un nuevo formulario y formato para los técnicos de soporte y de telecomunicaciones, luego de cualquier visita a las Direcciones Regionales del IFARHU.
+
+### Notificaciones de Trabajos a Realizar
+
+Se creó un formato (plantilla) para la notificación de labores que pudiesen realizarse a nivel de la DTI y que pudiesen afectar, parcial o totalmente, la operatividad del IFARHU.
+
+![Vista del formato para notificar un trabajo a ser realizado por la DTI y que afectarían ciertos servicios. \label{chap7_fig4}](source/figures/chap7_fig4.png){ width=70% }
+
+Igualmente se ideó un mecanismo para poder desplegar dichas notificaciones a todo el personal, mediante una dirección de correo electrónico para dichos fines comunicativos.
+
+### Formato de Pruebas: Desarrollador de Software
+
+Se creó un formato de prueba de conocimientos y competencias para las posiciones de Ingenieros y Desarrolladores de Software del IFARHU.
+
+Dicha prueba fue aplicada a todo el personal que participó del proceso de ingreso al IFARHU. La misma consta de preguntas teóricas sobre conceptos escenciales de programación y programación a objetos, de una sección de desarrollo de algoritmos y una sección de consultas de bases de datos mediante sentencias SQL.
 
 ### Solicitud de publicación de contenidos web
 

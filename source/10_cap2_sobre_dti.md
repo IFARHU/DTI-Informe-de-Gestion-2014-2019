@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El IFARHU (Instituto para la Formación y Aprovechamiento de Recursos Humanos) se crea mediante Ley 1 de 11 de enero de 1965, como una institución que propusiese enfrentar la problemática del recurso humano, proporcionando oportunidades de estudios a jóvenes y adultos de todos los niveles académicos.
+El IFARHU (Instituto para la Formación y Aprovechamiento de Recursos Humanos) se crea mediante Ley 1 de 11 de enero de 1965, como una institución que propusiese enfrentar la problemática del recurso humano, proporcionando oportunidades de estudios a jóvenes y adultos pertenecientes a todos los niveles académicos.
 
 Luego de más de 50 años de existencia, el IFARHU mantiene una cartera activa de cerca de 900 mil estudiantes beneficiadas con sus ofertas: ya sean becas o créditos educativos.
 
@@ -16,13 +16,13 @@ Tanto este como el resto de programas de becas y créditos educativos del IFARHU
 
 La Dirección de Tecnología Informática (DTI) fue creada en el año 2007 mediante Resolución 320-2007-655 de 26 de noviembre de 2007. Desde su creación, la DTI ha estado asignada al "Nivel Auxiliar de Apoyo", según lo descrito en el Manual de Organización y Funciones del IFARHU.
 
-El objetivo por el cual se creó la DTI establece\footnote{Manual de Organización y Funciones del IFARHU}:
+El objetivo por el cual se creó la DTI establece\footnote{Manual de Organización y Funciones del IFARHU} es:
 
 > Planificar, dirigir, organizar, coordinar y supervisar la automatización de los procesos, adquisición y mantenimiento de las tecnologías de información y comunicaciones utilizadas por el Instituto para la Formación y Aprovechamiento de Recursos Humanos a nivel nacional, en apoyo a las directrices emanadas del Despacho Superior y garantizando altos estándares de seguridad en su funcionamiento.
 
 ## Organización y Jerarquía
 
-La Directrices de la DTI emanan del Despacho Superior y esta, a su vez, se compone de 4 Departamentos, 1 Sección y 1 Unidad (Asignaciones Internas), definidas de la siguiente manera:
+La directrices de la DTI emanan del Despacho Superior. La DTI, a nivel real operativo, se compone de 4 Departamentos, 1 Sección y 1 Unidad (Asignaciones Internas), definidas de la siguiente manera:
 
 - Departamento de Soporte Técnico
 - Departamento de Telecomunicaciones
@@ -37,8 +37,8 @@ En la Figura \ref{ref_organigrama} se muestra el Organigrama Operativo de la DTI
 
 ## El papel de la DTI durante la Administración 2014-2019
 
-Durante la administración 2014-2019, la DTI se ha enfocado en el trabajo desde una perspectiva estratégica, soportando no solo las decisiones del Despacho Superior si no la Estrategia de la Institución.
+Durante la administración 2014-2019, la DTI se ha enfocado en el trabajo desde una perspectiva estratégica y operativa, soportando no solo las decisiones del Despacho Superior si no la Estrategia de la Institución. Esto fue reafirmado en Modelo Operativo del IFARHU, realizado en el año 2015 (Ver Anexo 3).
 
-De igual forma, intentó desarrollar proyectos innovadores y el desarrollo interno de tecnología, mediante la capacitación constante, la revisión de competencias, la inversión en capital humano como principal indicador de desarrollo tecnológico, el uso de plataformas tecnológicas, la transparencia de los procesos, el desarrollo mediante tecnologías nuevas y libres, la implementación de tecnologías abiertas sobre privativas y el empoderamiento de los colaboradores para asumir sus responsabilidades y sus puestos.
+La DTI intentó desarrollar proyectos innovadores y el desarrollo interno de tecnología, mediante la capacitación constante, la revisión de competencias, la inversión en capital humano como principal indicador de desarrollo tecnológico, el uso de plataformas tecnológicas avanzadas, la transparencia-inspección-adaptación en los procesos, el desarrollo mediante tecnologías nuevas y libres, la implementación de tecnologías abiertas sobre privativas y el empoderamiento de los colaboradores para asumir sus responsabilidades y sus puestos, enfocándonos en la dignidad del colaborador.
 
-De igual forma, se mejoró tanto la identidad y la relación de los colaboradores con su Dirección, mejorando igualmente sus espacios de trabajo y colaboración, promoviendo un entorno abierto de colaboración. El compromiso y liderazgo no jerarquico fueron fundamentales en la creación de capacidades blandas del personal que hace todo posible no solo en nuestra Dirección: también en el IFARHU a nivel nacional.
+Igualmente se mejoró tanto la identidad y la relación de los colaboradores con su Dirección, mejorando notablemente sus espacios de trabajo y convirtiéndolos en espacios de colaboración, promoviendo un entorno abierto de comunicación. El compromiso y liderazgo no jerárquico (no basado en posiciones) fueron fundamentales en la creación de capacidades blandas del personal que hace todo posible no solo en nuestra Dirección: también en el IFARHU a nivel nacional.

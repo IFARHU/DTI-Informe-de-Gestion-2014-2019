@@ -134,6 +134,10 @@ Un error en sus generales ocasionaban problemas como:
 - Si los cheques contenían errores, era muy común la solicitud de corrección de sus generales a través de la DTI y posterior re-impresión de los nuevos cheques. Esto ocasionaba grandes volúmenes de datos a nuestro personal y acarreaba grandes costos para nuestra Institución.
 - Los informes de auditoría señalaban que era muy probable la existencia de casos de Beca Universal captados que no correspondían a personas reales o cuyas cédulas de identidad no fuesen correctas.
 
+**Solo en 2014, mediante una Auditoría realizada por la DTI, detectamos 9,364 cheques que fueron anulados por inconsistencias en las generales de los estudiantes. De estos, 4,846 fueron corregidos y 4,518 no fueron corregidos ni reimpresos.** \footnote{Informe sobre la necesidad de Integrar los Servicios e Información del Tribunal Electoral al IFARHU, realizado por la DTI en 2015}
+
+Estos cheques que no pudieron ser corregidos se debía mayormente a que no pudimos validar la existencia de la persona o sus generales.
+
 Dado este panorama, la DTI ideó un plan en 2014 para crear un mecanismo de validación y consumo con el TE de la siguiente manera:
 
 - Se iniciaron las conversaciones con el MEDUCA y el TE para validar el formato en que pudiésemos asegurar las identidades de los estudiantes.
@@ -159,6 +163,16 @@ El motivo de esto era en base a tres elementos:
 1. Esto, de igual forma, obligaría a los estudiantes a estar registrados civilmente ante el TE, lo que facilitaría igualmente nuestro trabajo.
 
 > **Nota:** Este proyecto se archivó a partir del año 2017.
+
+### Portal para Feria Edúcate
+
+Desarrollamos un portal web para la Feria Edúcate y lo publicamos en la dirección http://feria.ifarhu.gob.pa/, permitiéndole durante los años de la feria contar con información actualizada de la Feria y de las universidades participantes en la misma.
+
+Durante el año 2017, además utilizamos el sistema feelback\footnote{https://www.feelback.io/} para medir la satisfacción de los visitantes de la Feria, generando estadísticas como la mostrada en la Figura \ref{chap5_fig16}.
+
+Dicho informe fue remitido de forma completa al Departamento de Relaciones Públicas del IFARHU para su respectivo análisis y posterior mejora en ferias subsiguientes.
+
+![Vista de la documentación de Taboga. \label{chap5_fig16}](source/figures/chap5_fig16.png){ width=70% }
 
 ### Taboga
 

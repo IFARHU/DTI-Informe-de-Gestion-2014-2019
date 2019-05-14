@@ -2,23 +2,24 @@
 
 ## Introducción
 
-El **Eje Arquitectura Tecnológica, Telecomunicaciones, Seguridad e Infraestructura** define todos los esfuerzos relacionados con la arquitectura física y tecnológica del IFARHU y la DTI, parte elemental y escencial de la operatividad, no solamente de la DTI, si no completamente del IFARHU.
+El **Eje Arquitectura Tecnológica, Telecomunicaciones, Seguridad e Infraestructura** define todos los esfuerzos relacionados con la arquitectura física y tecnológica del IFARHU y la DTI, parte elemental y escencial de la operatividad, no solamente de la DTI, del IFARHU en general.
 
-Durante administraciones pasadas, se enfocó de gran forma hacia el desarrollo constante sobre este eje y durante la administración 2014-2019 se desarrollaron modificaciones a las infraestructuras existentes, se expandieron las mismas y se coordino una mejora gradual (sobre le margen de tiempo) que nos permitiese crecer a un ritmo constante.
+Durante administraciones pasadas, se enfocó de gran forma hacia el desarrollo constante sobre este eje y durante la administración 2014-2019 se desarrollaron modificaciones a las infraestructuras existentes, se expandieron las mismas y se coordinó una mejora gradual (sobre el margen de tiempo) que nos permitiese crecer a un ritmo constante y establecido.
 
 ## Arquitectura Tecnológica y Infraestructura
 
 ### Ecosistema libre y abierto
 
-Uno de los cambios más fundamentales, a diferencia de las administraciones anterioes, fue la incorporación de otros ambientes, fuera de los predominantemente orientados a infraestructuras privativas de Microsoft.
+Uno de los cambios más fundamentales fue la incorporación de otros ambientes, fuera de los predominantemente orientados a infraestructuras privativas de Microsoft.
 
 Se incorporaron servidores, aplicaciones, lenguajes y tecnologías libres y abiertas, especialmente soportados por sistemas operativos basados en Linux. En la actualidad, se cuentan con servidores que corren algunas de las siguientes distribuciones:
 
 - Ubuntu Server 14.04 LTS
 - Ubuntu Server 16.04 LTS
 - Ubuntu Server 18.04 LTS
+- CentOS (telefonía, principalmente)
 
-Estos servidores permanecen tanto en nuestra red privada como en nuestra red pública.
+Estas distribuciones se pueden encontrar tanto en nuestra red privada como en nuestra red pública. Con estas incorporaciones hemos podido abaratar notablemente los costos de licenciamiento de servidores y los resultados han sido excepcionales en todos los servicios prestados por los mismos.
 
 ### Microsoft Azure
 
@@ -29,16 +30,28 @@ Otro de los cambios más importantes fue la equiparación e incorporación de un
 - Sistema de Otros Concursos
 - Aplicaciones de Verificación
 - Aplicaciones de Interoperabilidad
+- Otros sitios web informativos (Concurso de Medicina, Feria Edúcate)
 
-Para ello, se evaluaron las disponibilidades actuales en el mercado panameño y se movilizó toda la infraestructura, anteriormente en un Data Center físico, a la nube de Microsoft Azure.
+Para ello, se evaluaron las disponibilidades actuales en el mercado panameño y se movilizó toda la infraestructura, anteriormente en un Data Center físico, a la nube de Microsoft Azure, con el apoyo de un proveedor local (TECNASA).
 
-Gracias a este cambio **el IFARHU redujo en un 96% los gastos** relacionados con mantener estas plataformas operativamente activas y con un **99.99% de _uptime_** para todas las aplicaciones, además de contar con mayor facilidad y flexibilidad para el manejo y administración de todos sus recursos en la nube, permitiéndole mayor agilidad para desarrollar nuevas aplicaciones o servicios públicos.
+Gracias a este cambio **el IFARHU redujo en cerca del 96% los gastos anuales** relacionados con mantener estas plataformas operativamente activas y mantuvo un **99.99% de _uptime_**\footnote{Cifras según los sistemas de Microsoft Azure} para todas las aplicaciones, además de contar con mayor facilidad y flexibilidad para el manejo y administración de todos sus recursos en la nube, permitiéndole mayor agilidad para desarrollar nuevas aplicaciones o servicios públicos o ponerlos a disposición sin requerir el apoyo externo de otros proveedores o licenciamientos adicionales, tal como sucedía con anterioridad.
 
-### Expansión de nodos virtuales (HP y DELL)
+### Expansión de sistemas virtuales (HP y DELL) privados del IFARHU
+
+Se realizaron expansiones a los sistemas virtuales con los que cuenta el IFARHU en la actualidad, expandiendo en los actuales:
+
+- Nodos (HP)
+- Memoria
+- Procesador
+- Bancos de Discos
+- Mejoras en las comunicaciones
+- Respaldos
+
+Estos trabajos se han realizado de forma escalonada y gradual, permitiéndole al IFARHU crecer a la medida que se ha necesitado.
 
 ### Monitoreo y variables de ambiente
 
-Se detectó la imposibilidad de poder medir las variables físicas, o de ambiente, tanto en el Centro de Datos de Planta Central como en los cuartos de comunicación de todas las Sedes y Oficinas Regionales del IFARHU a nivel nacional.
+Se detectó la imposibilidad de poder medir las variables físicas o de ambiente, tanto en el Centro de Datos de Planta Central como en los cuartos de comunicación de todas las Sedes y Oficinas Regionales del IFARHU a nivel nacional.
 
 Es por ello que adquirimos un sistema de monitoreo de variables de entorno para medir las siguientes variables de entorno y generar reportes o alertas, de ocurrir alguna anomalía:
 
@@ -71,16 +84,18 @@ A partir de la instalación de los equipos para detectar y medir las variables d
 
 Los equipos adquiridos fueron los siguientes:
 
-- Compu Aire, con mantenimiento de la empresa Panama Hardware
-- TrippLite, con mantenimiento de la empresa La Casa de las Baterías
+- Compu Aire, con mantenimiento de la empresa Panama Hardware.
+- TrippLite, con mantenimiento de la empresa La Casa de las Baterías.
 
-Los aires acondicionados de precisión son sistemas específicos para ser utilizados en centros de datos y tienen la capacidad de crear y generar ambientes de temperatura y humedad regulada. De igual forma mantienen de forma más eficiente la pureza del aire.
+Los aires acondicionados de precisión son sistemas especiales para ser utilizados en centros de datos y tienen la capacidad de crear y generar ambientes de temperatura y humedad regulada. De igual forma mantienen de forma más eficiente la pureza del aire.
 
 Otra gran ventaja de estos aires acondicionados es que permiten la regulación exacta de la temperatura. Un error es pensar que los Centros de Datos deben ser cuartos de frigoríficos, pero es escencial que los mismos puedan mantener una temperatura constante y activa que no supere ni reduzca los umbrales de operatividad definidos.
 
 #### Deshumidificador de aire
 
 De forma paralela y como paleativo a la humedad proveniente del espacio externo al Centro de Datos (al no contar con un ambiente cerrado y controlado externo) se adquirió un pequeño deshumidificador de aire, reduciendo la humedad del centro de datos.
+
+Este deshumidificador debe trabajar en conjunto con los aires de precisión para mantener la humedad del Centro de Datos regulada.
 
 ### Limpieza y Acondicionamiento del Centro de Datos
 
@@ -232,10 +247,6 @@ Nos pudimos topar en 2015 con regionales que ya habían sobrepasado las cantidad
 
 En las Figuras \ref{chap4_fig2} y \ref{chap4_fig3} pueden apreciarse los resultados de la reconfiguración de la red a nivel nacional, tanto en la Sede Central del IFARHU como en sus distintas oficinas a nivel nacional.
 
-### Expansión de las líneas telefónicas a nivel nacional
-
-<!-- TODO -->
-
 ### Migración de tecnología satelital (Regionales de Difícil Acceso)
 
 Durante el año 2015, y luego de una auditoría de los servicios ofrecidos y requeridos para mantener la conectividad con las Sedes de Difícil Acceso y Sede Central del IFARHU, se hizo un estudio y evaluación para mejorar las comunicaciones satelitales con dichas regionales.
@@ -278,7 +289,11 @@ La conectividad con la red del IFARHU, a su vez, se realiza mediante la incorpor
 
 ### Telefonía VoIP
 
-#### Licencias
+El IFARHU tiene telefonía análoga y telefonía digital. Ambos servicios son parte de la Dirección de Administración, pero el servicio de telefonía digital es administrado y gestionado por la DTI.
+
+Durante esta administración hemos invertido en mantener estos sistemas en funcionamiento y hemos hecho trabajos de investigación y pruebas relacionadas con expandir las líneas a un menor costo.
+
+#### Licenciamiento
 
 - En la actualidad contamos con 421 licencias AVAYA, la cual 125 son de la tecnología VoIP   Y 296 de la tecnología IP.
 - En el año 2014 se contaba con 412 licencias a nivel Nacional 
@@ -305,8 +320,8 @@ La conectividad con la red del IFARHU, a su vez, se realiza mediante la incorpor
 
 El inventario de teléfonos actual del IFARHU es el siguiente:
 
-- 41 Teléfonos, Marca Gramstream 
-- 152 Teléfonos, Marca Avaya, modelo1616,1603,1608,4621. 
+- 41 Teléfonos, Marca Gramstream.
+- 152 Teléfonos, Marca Avaya, modelo 1616, 1603, 1608, 4621. 
 - 228 Teléfonos, Marca Yealink, modelo SIP –T22P, T20P.
 
 **Total, de Nuevas Líneas Instaladas 2014-2019:**
@@ -496,7 +511,9 @@ Dicha solución fue ser desplegada para suplir a una necesidad de aproximadament
 - Ampliar los contratos de alquiler de impresoras, promoviendo las mismas en distintas sedes regionales de Panamá. Este trabajo se estipuló realizarlo en el año 2019, mas no fue desarrollado por implementación del sistema ISTMO durante los meses de enero a mayo de 2019.
 - Realizar un descarte total de las impresoras que, por malgaste en las piezas y su vigencia en el mercado, no pueden ser reparadas.
 - Ampliar la granja de servidores HP de forma escalonada, tal como se ha ido realizando, para soportar el crecimiento actual del IFARHU.
-- Evaluar la migración de ciertos servicios desde la red interna del IFARHU a la nube privada del IFARHU, basada en Microsoft Azure.
+- Evaluar la migración de ciertos servicios desde la red interna del IFARHU a la nube privada del IFARHU, basada en Microsoft Azure. Igualmente evaluar la incorporación y posible migración escalonada de ciertos servicios a la Nube Computacional Gubernamental\footnote{http://www.innovacion.gob.pa/nube} de la AIG.
+- En cuanto al punto anterior, se puede hacer un análisis costo-beneficio de hacer estas migraciones. La ventaja de la migración es que no debemos correr con la compra del hardware ni el reemplazo del mismo por temas de obsolescencia.
+- Evaluar la migración de las cuentas de correo de nuestro propio servidor de correo a correos en la Nube, como Office 365.
 
 **Redes y Telecomunicaciones**
 
