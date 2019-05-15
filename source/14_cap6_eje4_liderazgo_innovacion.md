@@ -232,7 +232,7 @@ Al día de hoy, el IFARHU cuenta con dos trámites en línea disponibles en el p
 - Solicitud de Paz y Salvo (Crédito Educativo)
 - Solicitud de Certificación de Crédito (Crédito Educativo)
 
-A través de esta implementación, el IFARHU 
+A través de esta implementación, el IFARHU ha podido atender más de 3 mil casos dentro del portal de Panamá en Línea.
 
 ## Interoperabilidad
 
