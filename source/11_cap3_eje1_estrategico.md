@@ -129,6 +129,8 @@ Por último, el trabajo demostró como el Modelo Operativo de la DTI podría ser
 
 Es importante recalcar que este es uno de los trabajos más importantes realizados durante esta Administración en la DTI. La única forma de definir un camino es analizando el punto en que se encuentra la Dirección y la Institución y orientar nuestro camino hacia los logros y objetivos que quiere nuestra Dirección lograr y hacia donde quiere ir.
 
+A mediados de 2017, la Autoridad Nacional para la Innovación Gubernamental (AIG) presentó a través de su Dirección Nacional de Gobernanza de TI las "Normas Generales para la Gestión de las Tecnologías de la Información y Comunicación del Estado". Este documento se emitió y desarrolló posteriormente a la generación de nuestro Modelo Operativo de Tecnología pero ambos documentos están notablemente alineados en su escencia.
+
 ## Imagen de la DTI y reforzamiento como identidad y pertenencia
 
 A partir del PETI, detectamos igualmente que el personal de la DTI se encuentra notablemente comprometido con su trabajo y satisfecho con los resultados logrados a partir de su trabajo.
@@ -260,6 +262,8 @@ Durante los años 2014 a 2018 se desarrollaron algunas de las siguientes capacit
 El IFARHU, durante el quinquenio siguiente, deberá promover la elaboración de un nuevo Mapa y Plan Estratégico que pueda guiar al IFARHU para apoyar a la gestión del Gobierno de turno y su plan de país.
 
 De igual forma, la DTI deberá encarrilar sus esfuerzos para la generación de su plan respectivo que pueda apoyar, a su vez, el Plan y Mapa Estratégico del IFARHU. A partir de allí, redefinir y reorientar las prioridades de la DTI en relación a las prioridades del IFARHU.
+
+Se recomienda utilizar de base las "Normas Generales para la Gestión de las TIC en el Estado"\footnote{\url{Resolución N° 99 - 16.10.2017 Gaceta Oficial Digital, N° 28412-B - 23.11.2017. Acceder a través de http://www.innovacion.gob.pa/estandares}}, las cuales proveen una serie de normas escenciales para soportar la gobernanza de las entidades públicas del Estado panameño.
 
 ### Capacitaciones y competencias
 
