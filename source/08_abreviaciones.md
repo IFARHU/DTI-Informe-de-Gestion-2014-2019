@@ -17,3 +17,4 @@
 - OIRH: Oficina Institucional de Recursos Humanos
 - PMO: Oficina de Gestión/Administración de Proyectos (Project Management Office)
 - BNP: Banco Nacional de Panamá
+- PEL: Panamá en Línea

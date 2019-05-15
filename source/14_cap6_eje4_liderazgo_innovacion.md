@@ -217,6 +217,23 @@ La intención principal de este proyecto era desarrollar un Chatbot que pudiese 
 
 El proyecto se desarrolló hasta una etapa bastante avanzada, pero requiere realizar ajustes y su publicación. El mismo se encuentra en la cuenta privada del IFARHU en GitLab\footnote{https://gitlab.com/ifarhu/alexis}.
 
+## Trámites en línea
+
+La AIG ha desarrollado el proyecto de Panamá en Línea (PEL)\footnote{\url{https://panamatramita.gob.pa/panamaenlinea}}. Este proyecto renueva la forma en que el ciudadano tramita con el Estado, para que todos los procedimientos se hagan de manera ágil y transparente.
+ 
+Esta iniciativa optimiza el desempeño de las funciones gubernamentales para mejorar la prestación del servicio al ciudadano, permitiendo una mayor transparencia y calidad de servicios a todos los panameños y extranjeros, eximiéndolos de presentar documentación sobre información que resida en bases de datos digitales del Estado, trayendo consigo más comodidad, menos visitas a las entidades, menos filas y ahorros de tiempo y costos.
+
+Este proyecto está relacionado con el proyecto de Panamá Tramita, en el cual se establecen todos los procesos que se manejan en el IFARHU a través de un portal único.
+
+El IFARHU fue una de las primeras **7 instituciones** del gobierno que presentó un trámite en línea a través del portal de Panamá en Línea. Adicionalmente renovó todos los trámites que se listaban en el portal de Panamá Tramita para que se reflejaran actualizados.
+
+Al día de hoy, el IFARHU cuenta con dos trámites en línea disponibles en el portal:
+
+- Solicitud de Paz y Salvo (Crédito Educativo)
+- Solicitud de Certificación de Crédito (Crédito Educativo)
+
+A través de esta implementación, el IFARHU 
+
 ## Interoperabilidad
 
 La interoperabilidad es la capacidad que tiene un producto o un sistema, cuyas interfaces son totalmente conocidas, para funcionar con otros productos o sistemas existentes o futuros y eso sin restricción de acceso o de implementación\footnote{Traducción por Pascual Chevrel}.
@@ -268,3 +285,4 @@ Tal como describimos en el Eje 3, la primera interoperabilidad con otra instituc
 - Incentivar la investigación dentro de la DTI, permitiéndole a los funcionarios de la DTI evaluar proyectos que incorporen tecnología avanzada como Blockchain, Big Data, Analítica de Datos, Machine Learning, Inteligencia Artificial, entre otros.
 - Datos Abiertos: Mediante Resolución No. 320-2019-219 se designa a la Dirección de Planificación como el Oficial de Información del IFARHU para coordinar la implementación de Datos Abiertos del IFARHU. Los Datos Abiertos permiten a los ciudadanos generar información y conocimiento a partir de los datos entregados por la Institución. La DTI es parte del comité de Datos Abiertos de la Institución, por lo que se ha encontrado a la espera, por parte de la Dirección de Planificación, de retomar los trabajos orientados a generar un esquema de datos para ser compartidos a través del Portal de Datos Abiertos de Panamá\footnote{\url{https://www.datosabiertos.gob.pa/}}. Queda pendiente a la próxima administración generar los primeros catálogos de datos, trabajo que podría soportarse en el proyecto de Conecta IFARHU y su componente de análisis de datos ya desarrollado.
 - A nivel de los kioskos, la implementación de Caja no resultó como teníamos previsto. Todo se debe principalmente al espacio físico en donde se encuentra caja y al proceso relacionado con el pago. Como el espacio físico es reducido, cuando las personas son tantas deben aglomerarse afuera y las pantallas no se encuentran disponibles para su vista. Recomendamos evaluar mover la sección de caja de ubicación, quizás a otro piso, o mover los kioskos de atención para ser utilizados en los procesos de Crédito Educativo (Piso 8). Igualmente, replicar la implementación de los kioskos en regionales como Panamá Norte, Panamá Oeste - La Chorrera, Panamá Oeste - Arraiján, Chiriquí - David y Veraguas - Santiago, para iniciar.
+- Abarcar más trámites a través de Panamá en Línea, mediante la incorporación de otros servicios ya disponibles a través de los API disponibles del proyecto de Conecta IFARHU. Se podrían agregar servicios relacionados con las becas, como conocer sobre un pago.
