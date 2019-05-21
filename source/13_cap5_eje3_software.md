@@ -524,14 +524,6 @@ Algunas de las funcionalidades de ownCloud son las siguientes:
 - Versionamiento: si alteras un archivo, puedes volver a la versión anterior
 - Galerías y vídeos
 
-#### Migración a Nextcloud
-
-ownCloud funcionó perfectamente durante los años 2014 a 2019. En el año 2019 hemos migrado a una opción, basada en ownCloud, llamada Nextcloud\footnote{https://nextcloud.com/}.
-
-Nextcloud es un _fork_\footnote{Una versión de la comunidad, basado en el código fuente original pero que se ha ido modificando y alterando en su propia cuenta y "rama" de desarrollo.} de ownCloud.
-
-Muchos de los desarrolladores originales de ownCloud han migrado a Nextcloud, lo que hace que esta sea una versión con mayores actualizaciones a futuro.
-
 ## Trabajo futuro
 
 - **Sistema Único de Crédito Educativo (Fases posteriores): Todo lo concerniente a este proyecto se encuentra en su propio anexo.** Consideramos que este proyecto debe ser la pr
@@ -542,3 +534,4 @@ Muchos de los desarrolladores originales de ownCloud han migrado a Nextcloud, lo
 - Desarrollar una nueva aplicación de Recursos Humanos. Esta aplicación no fue desarrollada por esta administración debido a que no es un proyecto de prioridad, según lo definido en el PETI.
 - Migrar el resto de aplicaciones realizadas en tecnología desfasada (VB, mayoritariamente) a un nuevo esquema de tecnologías, que permita su mejora de forma más ágil.
 - Evaluar la incorporación de Firma Electrónica en algunos procesos del IFARHU. La Ley 51 de 22 de julio de 2008, define y regula los documentos electrónicos y las firmas electrónicas y la prestación de servicios de almacenamiento tecnológico de documentos y de certificación de firmas electrónicas y adopta otras disposiciones para el desarrollo del comercio electrónico. La Ley 82 de 9 de noviembre de 2012, otorga al Registro Público de Panamá atribuciones de autoridad registradora y certificadora raíz de firma electrónica para la República de Panamá, modifica la Ley 51 de 2008.
+- Migrar ownCloud a Nextcloud. ownCloud funcionó perfectamente durante los años 2014 a 2019. En el año 2019 se recomienda que sea migrado a una opción, basada en ownCloud, llamada Nextcloud\footnote{https://nextcloud.com/}. Nextcloud es un _fork_\footnote{Una versión de la comunidad, basado en el código fuente original pero que se ha ido modificando y alterando en su propia cuenta y "rama" de desarrollo.} de ownCloud. Muchos de los desarrolladores originales de ownCloud han migrado a Nextcloud, lo que hace que esta sea una versión con mayores actualizaciones a futuro. Las implicaciones para esta migración deberían ser menores.
