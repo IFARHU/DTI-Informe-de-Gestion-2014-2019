@@ -52,6 +52,16 @@ Los entregables de esta primera fase fueron:
 
 Este trabajo, el cuál duró aproximadamente 14 meses entre el tiempo invertido por parte de la DTI como por el proveedor externo, se puede catalogar como el factor crítico para que el proyecto de crédito educativo se realice de la forma correcta y evitar cualquier fracaso futuro.
 
+Los mismos determinaron y recomendaron que para que este proyecto pueda realizarse, hay ciertas consideraciones que deben realizarse previamente:
+
+- No se cuenta reporte de saldo total de la cartera, de capital, de intereses ganados y de morosidad.
+- No existe base conciliada previa para el proceso de migración.
+- Es un riesgo del proyecto que los montos difieran enormemente de la contabilidad y por ende el negocio (Dirección de Crédito) o el regulador (Contraloría) no los vea viable para realizar un ajuste.
+- Se considera un riesgo, se recomienda realizar una depuración de datos de saldos y validación del saldo contable vs. el operativo.
+- Para garantizar la correcta aplicación de los descuentos en planilla se recomienda llevar el proceso de aplicación de abono a la fecha (eliminar el rezago).
+- Es factible un apoyo vía sistema que facilite a las empresas la definición de pago de los compromisos con el IFARHU de sus colaboradores, con el fin de evitar que se den inconsistencia en la aplicación o generar soportes internos.
+- El propósito de este servicio es que provea detalle de información del pago igual al que detalla el sector público.
+
 Todos los entregables de este proyecto se encuentran anexos a este informe.
 
 ## Nuevos Desarrollos y Plataformas
