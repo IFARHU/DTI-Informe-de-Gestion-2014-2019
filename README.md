@@ -4,6 +4,10 @@ Informe de Gestión de la [Dirección de Tecnología Informática](http://ifarhu
 
 Este sistema de generación a través de Markdown, LaTeX y Pandoc está basado en el trabajo de [Tom Pollard](https://github.com/tompollard/phd_thesis_markdown), utilizado comúnmente para generar tésis y otros documentos educativos.
 
+## Archivo para consultar
+
+Este trabajo genera un PDF que puede ser ubicado en la [siguiente dirección](https://github.com/IFARHU/DTI-Informe-de-Gestion-2014-2019/blob/master/output/DTI_Informe_Gestion_2014-2019.pdf) para su lectura. Favor referirse al mismo.
+
 ## ¿Cómo generar los archivos?
 
 Referirse al trabajo original de [Tom Pollard](https://github.com/tompollard/phd_thesis_markdown) para conocer más sobre como utilizar esta plantilla.
