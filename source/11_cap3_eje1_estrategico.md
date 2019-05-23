@@ -160,6 +160,14 @@ Al inicio de esta administración, se encontró el espacio de trabajo totalmente
 - No existían lugares especiales para realizar las reparaciones en Soporte.
 - No existía la uniformidad entre el mobiliario y muchos de los muebles eran desechos de otros Departamentos.
 
+![Espacios de Trabajo de la DTI anteriores. \label{ref_chap3_fig8}](source/figures/chap3_fig8.jpg)
+
+![Espacios de Trabajo de la DTI anteriores. \label{ref_chap3_fig9}](source/figures/chap3_fig9.jpg)
+
+![Espacios de Trabajo de la DTI anteriores. \label{ref_chap3_fig10}](source/figures/chap3_fig10.jpg)
+
+En las Figuras \ref{ref_chap3_fig8}, \ref{ref_chap3_fig9} y \ref{ref_chap3_fig10} se pueden evaluar los espacios de trabajos con los que contaba la DTI a 2014.
+
 Se trabajó junto al Departamento de Obras Físicas, de la Dirección de Administración, para renovar completamente el espacio de nuestra Dirección enfocándonos en algunos aspectos importantes:
 
 1. Se hizo en dos fases, iniciando con los Departamentos de Soporte Técnico / Telecomunicaciones y Desarrollo de Sistemas. En la siguiente fase se anexó el Departamento de Procesamiento de Datos y la Sección de Servicio al Usuario (SSU).
@@ -169,7 +177,25 @@ Se trabajó junto al Departamento de Obras Físicas, de la Dirección de Adminis
 1. Debían existir cubículos independientes por colaborador, incluso en Soporte y Telecomunicaciones.
 1. Debía existir un área designada para realizar los trabajos técnicos, haciendo que los técnicos no requieran realizar dichos trabajos en sus áreas designadas.
 
+Igualmente se instalaron nuevas cortinas, de tipo _black out_, reduciendo la temperatura de la Dirección y aportando a la reducción en uso de electricidad con los equipos de aire acondicionado.
+
 Gracias a este trabajo, se equipó al personal de la DTI un espacio mucho más digno y cómodo para realizar sus trabajos. De igual forma se reemplazaron sillas y mobiliario en la medida que el Departamento de Bienes Patrimoniales nos permitiese.
+
+### Sala de Juntas
+
+La DTI no poseía una sala de juntas para llevar a cabo las reuniones relacionadas con los proyectos y trabajos dentro de nuestra Dirección, por lo que era requerido que solicitar un espacio de trabajo para poder llevar a cabo dichas reuniones, siempre que fuese necesario.
+
+Se habilitó un espacio específico para llevar a cabo las reuniones de nuestra Dirección. Además se acondicionó el espacio para que tuviera:
+
+- Una mesa de reuniones.
+- Seis puestos para la mesa.
+- Tablero, para la toma de notas.
+- Rotafolio, para la toma de notas.
+- Televisor con un equipo para compartir la pantalla (Google Chrome Cast).
+- Proyector.
+- Teléfono de reuniones.
+
+Otro gran punto de la sala de reuniones fue poder habilitar todos los vitrales de la sala de reuniones para la toma de notas, como un gran espacio de lluvia de ideas, permitiéndonos más espacio para tomar notas.
 
 ## Restructuración de las funciones dadas por Departamentos
 
